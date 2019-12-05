@@ -1,0 +1,244 @@
+[2017-01-23 13:53:05,662] INFO  org.webdriver.mindaiappui.utils.TestListener 测试用例:登录测试---start
+[2017-01-23 13:53:05,665] INFO  org.webdriver.mindaiappui.utils.TestListener 测试用例:登录测试---start
+[2017-01-23 13:53:05,671] ERROR org.webdriver.mindaiappui.utils.TestListener 0
+[2017-01-23 15:29:14,866] INFO  org.webdriver.mindaiappui.utils.TestListener 测试用例:登录测试---start
+[2017-01-23 15:29:14,868] INFO  org.webdriver.mindaiappui.utils.TestListener 测试用例:登录测试---start
+[2017-01-23 15:29:14,873] ERROR org.webdriver.mindaiappui.utils.TestListener 0
+[2017-01-23 15:32:20,411] INFO  org.webdriver.mindaiappui.utils.TestListener 测试用例:登录测试---start
+[2017-01-23 15:32:20,413] INFO  org.webdriver.mindaiappui.utils.TestListener 测试用例:登录测试---start
+[2017-01-23 15:32:20,421] ERROR org.webdriver.mindaiappui.utils.TestListener 0
+[2017-01-23 15:57:04,899] INFO  org.webdriver.mindaiappui.utils.TestListener 测试用例:登录测试---start
+[2017-01-23 15:57:04,901] INFO  org.webdriver.mindaiappui.utils.TestListener 测试用例:登录测试---start
+[2017-01-23 15:57:04,908] ERROR org.webdriver.mindaiappui.utils.TestListener 0
+[2017-01-23 16:44:08,271] INFO  org.webdriver.mindaiappui.utils.TestListener 测试用例:登录测试---start
+[2017-01-23 16:44:08,274] INFO  org.webdriver.mindaiappui.utils.TestListener 测试用例:登录测试---start
+[2017-01-23 16:44:08,280] ERROR org.webdriver.mindaiappui.utils.TestListener 0
+[2017-01-23 16:49:36,054] INFO  org.webdriver.mindaiappui.utils.TestListener 测试用例:登录测试---start
+[2017-01-23 16:49:36,056] INFO  org.webdriver.mindaiappui.utils.TestListener 测试用例:登录测试---start
+[2017-01-23 16:49:36,062] ERROR org.webdriver.mindaiappui.utils.TestListener 0
+[2017-01-23 16:57:57,766] INFO  org.webdriver.mindaiappui.utils.TestListener 测试用例:登录测试---start
+[2017-01-23 16:57:57,769] INFO  org.webdriver.mindaiappui.utils.TestListener 测试用例:登录测试---start
+[2017-01-23 16:57:57,776] ERROR org.webdriver.mindaiappui.utils.TestListener 0
+[2017-01-23 17:03:44,153] INFO  org.webdriver.mindaiappui.utils.TestListener 测试用例:登录测试---start
+[2017-01-23 17:03:44,156] INFO  org.webdriver.mindaiappui.utils.TestListener 测试用例:登录测试---start
+[2017-01-23 17:03:44,161] ERROR org.webdriver.mindaiappui.utils.TestListener 0
+[2017-01-23 17:05:40,540] INFO  org.webdriver.mindaiappui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-01-23 17:05:40,547] INFO  org.webdriver.mindaiappui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-01-23 17:05:40,573] INFO  org.webdriver.mindaiappui.utils.ElementAction 等待10秒
+[2017-01-23 17:05:50,573] INFO  org.webdriver.mindaiappui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub设备名字：Android Emulator
+[2017-01-23 17:05:51,928] ERROR org.webdriver.mindaiappui.utils.TestBaseCase appium环境配置失败
+[2017-01-23 17:05:52,049] INFO  org.webdriver.mindaiappui.utils.TestListener 测试用例:登录测试---start
+[2017-01-23 17:05:52,051] INFO  org.webdriver.mindaiappui.utils.TestListener 测试用例:登录测试---start
+[2017-01-23 17:05:52,056] ERROR org.webdriver.mindaiappui.utils.TestListener 0
+[2017-01-23 17:13:23,548] INFO  org.webdriver.mindaiappui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-01-23 17:13:23,554] INFO  org.webdriver.mindaiappui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-01-23 17:13:23,592] INFO  org.webdriver.mindaiappui.utils.ElementAction 等待10秒
+[2017-01-23 17:13:33,592] INFO  org.webdriver.mindaiappui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub设备名字：Android Emulator
+[2017-01-23 17:13:34,967] ERROR org.webdriver.mindaiappui.utils.TestBaseCase appium环境配置失败
+[2017-01-23 17:13:35,092] INFO  org.webdriver.mindaiappui.utils.TestListener 测试用例:登录测试---start
+[2017-01-23 17:13:35,097] INFO  org.webdriver.mindaiappui.utils.TestListener 测试用例:登录测试---start
+[2017-01-23 17:13:35,106] ERROR org.webdriver.mindaiappui.utils.TestListener 0
+[2017-01-23 17:17:12,465] INFO  org.webdriver.mindaiappui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-01-23 17:17:12,473] INFO  org.webdriver.mindaiappui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-01-23 17:17:12,508] INFO  org.webdriver.mindaiappui.utils.ElementAction 等待10秒
+[2017-01-23 17:17:22,509] INFO  org.webdriver.mindaiappui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub设备名字：Android Emulator
+[2017-01-23 17:17:37,722] INFO  org.webdriver.mindaiappui.utils.TestBaseCase Capabilities [{app=F:\Android\mindaiappui\apps\weixin_861.apk, networkConnectionEnabled=true, noSign=true, warnings={}, databaseEnabled=false, deviceName=5843d03c, appMainPackage=com.tencent.mm, platform=LINUX, appActivity=com.tencent.mm.ui.LauncherUI, desired={app=F:\Android\mindaiappui\apps\weixin_861.apk, appActivity=com.tencent.mm.ui.LauncherUI, noSign=true, platformVersion=5.1.1, unicodeKeyboard=true, platformName=Android, deviceName=Android Emulator, appMainPackage=com.tencent.mm, resetKeyboard=true}, platformVersion=5.1.1, webStorageEnabled=false, locationContextEnabled=false, browserName=Android, takesScreenshot=true, javascriptEnabled=true, unicodeKeyboard=true, platformName=Android, resetKeyboard=true}]
+[2017-01-23 17:17:37,847] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：登录方式[By.id:com.tencent.mm:id/c4k]
+[2017-01-23 17:17:38,394] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：登录方式[By.id:com.tencent.mm:id/c4k]
+[2017-01-23 17:17:38,940] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：登录方式[By.id:com.tencent.mm:id/c4k]
+[2017-01-23 17:17:40,054] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：登录方式[By.id:com.tencent.mm:id/c4k]
+[2017-01-23 17:17:42,802] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：登录方式[By.id:com.tencent.mm:id/c4k]
+[2017-01-23 17:17:43,921] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：登录方式[By.id:com.tencent.mm:id/c4k]
+[2017-01-23 17:17:44,469] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：登录方式[By.id:com.tencent.mm:id/c4k]
+[2017-01-23 17:17:45,026] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：登录方式[By.id:com.tencent.mm:id/c4k]
+[2017-01-23 17:17:46,053] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：登录方式[By.id:com.tencent.mm:id/c4k]
+[2017-01-23 17:17:46,619] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：登录方式[By.id:com.tencent.mm:id/c4k]
+[2017-01-23 17:20:13,602] INFO  org.webdriver.mindaiappui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-01-23 17:20:13,608] INFO  org.webdriver.mindaiappui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-01-23 17:20:13,644] INFO  org.webdriver.mindaiappui.utils.ElementAction 等待10秒
+[2017-01-23 17:20:23,644] INFO  org.webdriver.mindaiappui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub设备名字：Android Emulator
+[2017-01-23 17:20:40,290] INFO  org.webdriver.mindaiappui.utils.TestBaseCase Capabilities [{app=F:\Android\mindaiappui\apps\weixin_861.apk, networkConnectionEnabled=true, noSign=true, warnings={}, databaseEnabled=false, deviceName=5843d03c, appMainPackage=com.tencent.mm, platform=LINUX, appActivity=com.tencent.mm.ui.LauncherUI, desired={app=F:\Android\mindaiappui\apps\weixin_861.apk, appActivity=com.tencent.mm.ui.LauncherUI, noSign=true, platformVersion=5.1.1, unicodeKeyboard=true, platformName=Android, deviceName=Android Emulator, appMainPackage=com.tencent.mm, resetKeyboard=true}, platformVersion=5.1.1, webStorageEnabled=false, locationContextEnabled=false, browserName=Android, takesScreenshot=true, javascriptEnabled=true, unicodeKeyboard=true, platformName=Android, resetKeyboard=true}]
+[2017-01-23 17:20:40,408] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：登录方式[By.id:com.tencent.mm:id/c4k]
+[2017-01-23 17:20:41,801] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：登录方式[By.id:com.tencent.mm:id/c4k]
+[2017-01-23 17:20:42,329] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：登录方式[By.id:com.tencent.mm:id/c4k]
+[2017-01-23 17:20:42,863] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：登录方式[By.id:com.tencent.mm:id/c4k]
+[2017-01-23 17:20:43,390] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：登录方式[By.id:com.tencent.mm:id/c4k]
+[2017-01-23 17:20:43,918] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：登录方式[By.id:com.tencent.mm:id/c4k]
+[2017-01-23 17:20:44,453] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：登录方式[By.id:com.tencent.mm:id/c4k]
+[2017-01-23 17:20:44,980] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：登录方式[By.id:com.tencent.mm:id/c4k]
+[2017-01-23 17:20:45,507] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：登录方式[By.id:com.tencent.mm:id/c4k]
+[2017-01-23 17:20:46,036] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：登录方式[By.id:com.tencent.mm:id/c4k]
+[2017-01-23 17:20:46,566] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：登录方式[By.id:com.tencent.mm:id/c4k]
+[2017-01-23 17:20:47,091] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：登录方式[By.id:com.tencent.mm:id/c4k]
+[2017-01-23 17:20:47,630] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：登录方式[By.id:com.tencent.mm:id/c4k]
+[2017-01-23 17:20:48,158] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：登录方式[By.id:com.tencent.mm:id/c4k]
+[2017-01-23 17:20:48,690] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：登录方式[By.id:com.tencent.mm:id/c4k]
+[2017-01-23 17:20:49,219] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：登录方式[By.id:com.tencent.mm:id/c4k]
+[2017-01-23 17:20:49,748] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：登录方式[By.id:com.tencent.mm:id/c4k]
+[2017-01-23 17:20:50,273] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：登录方式[By.id:com.tencent.mm:id/c4k]
+[2017-01-23 17:20:50,789] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：登录方式[By.id:com.tencent.mm:id/c4k]
+[2017-01-23 17:20:51,318] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：登录方式[By.id:com.tencent.mm:id/c4k]
+[2017-01-23 17:20:51,857] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：登录方式[By.id:com.tencent.mm:id/c4k]
+[2017-01-23 17:20:52,395] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：登录方式[By.id:com.tencent.mm:id/c4k]
+[2017-01-23 17:20:52,924] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：登录方式[By.id:com.tencent.mm:id/c4k]
+[2017-01-23 17:20:53,462] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：登录方式[By.id:com.tencent.mm:id/c4k]
+[2017-01-23 17:20:53,979] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：登录方式[By.id:com.tencent.mm:id/c4k]
+[2017-01-23 17:20:54,503] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：登录方式[By.id:com.tencent.mm:id/c4k]
+[2017-01-23 17:20:55,026] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：登录方式[By.id:com.tencent.mm:id/c4k]
+[2017-01-23 17:20:55,560] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：登录方式[By.id:com.tencent.mm:id/c4k]
+[2017-01-23 17:20:56,084] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：登录方式[By.id:com.tencent.mm:id/c4k]
+[2017-01-23 17:20:56,663] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：登录方式[By.id:com.tencent.mm:id/c4k]
+[2017-01-23 17:20:57,264] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：登录方式[By.id:com.tencent.mm:id/c4k]
+[2017-01-23 17:20:58,078] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：登录方式[By.id:com.tencent.mm:id/c4k]
+[2017-01-23 17:20:58,604] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：登录方式[By.id:com.tencent.mm:id/c4k]
+[2017-01-23 17:20:59,145] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：登录方式[By.id:com.tencent.mm:id/c4k]
+[2017-01-23 17:20:59,698] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：登录方式[By.id:com.tencent.mm:id/c4k]
+[2017-01-23 17:21:00,233] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：登录方式[By.id:com.tencent.mm:id/c4k]
+[2017-01-23 17:21:00,770] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：登录方式[By.id:com.tencent.mm:id/c4k]
+[2017-01-23 17:21:00,856] INFO  org.webdriver.mindaiappui.utils.ElementAction 超时无法定位页面元素
+[2017-01-23 17:21:02,673] ERROR org.webdriver.mindaiappui.utils.ScreenShot 错误截图：F:\Android\mindaiappui\test-output\snapshot\2017-01-23 172100868.jpg
+[2017-01-23 17:21:02,674] INFO  org.webdriver.mindaiappui.utils.ElementAction 2017-01-23 172100868
+[2017-01-23 17:21:02,683] INFO  org.webdriver.mindaiappui.utils.TestListener 测试用例:登录测试---start
+[2017-01-23 17:21:02,684] INFO  org.webdriver.mindaiappui.utils.TestListener 测试用例:登录测试---start
+[2017-01-23 17:21:04,363] ERROR org.webdriver.mindaiappui.utils.ScreenShot 错误截图：F:\Android\mindaiappui\test-output\snapshot\登录测试.jpg
+[2017-01-23 17:21:04,363] WARN  org.webdriver.mindaiappui.utils.TestListener 测试用例: 登录测试--skipped
+[2017-01-23 17:21:04,363] INFO  org.webdriver.mindaiappui.utils.TestListener 测试用例:登录测试---end
+[2017-01-23 17:21:05,946] ERROR org.webdriver.mindaiappui.utils.ScreenShot 错误截图：F:\Android\mindaiappui\test-output\snapshot\登录测试.jpg
+[2017-01-23 17:21:05,946] WARN  org.webdriver.mindaiappui.utils.TestListener 测试用例: 登录测试--skipped
+[2017-01-23 17:21:05,946] INFO  org.webdriver.mindaiappui.utils.TestListener 测试用例:登录测试---end
+[2017-01-23 17:21:05,957] INFO  org.webdriver.mindaiappui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-01-23 17:21:05,959] INFO  org.webdriver.mindaiappui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-01-23 17:21:05,998] INFO  org.webdriver.mindaiappui.utils.ElementAction 等待10秒
+[2017-01-23 17:23:04,170] INFO  org.webdriver.mindaiappui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-01-23 17:23:04,176] INFO  org.webdriver.mindaiappui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-01-23 17:23:04,216] INFO  org.webdriver.mindaiappui.utils.ElementAction 等待10秒
+[2017-01-23 17:23:14,216] INFO  org.webdriver.mindaiappui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub设备名字：Android Emulator
+[2017-01-23 17:24:17,923] INFO  org.webdriver.mindaiappui.utils.TestBaseCase Capabilities [{app=F:\Android\mindaiappui\apps\weixin_861.apk, networkConnectionEnabled=true, noSign=true, warnings={}, databaseEnabled=false, deviceName=5843d03c, appMainPackage=com.tencent.mm, platform=LINUX, appActivity=com.tencent.mm.ui.LauncherUI, desired={app=F:\Android\mindaiappui\apps\weixin_861.apk, appActivity=com.tencent.mm.ui.LauncherUI, noSign=true, platformVersion=5.1.1, unicodeKeyboard=true, platformName=Android, deviceName=Android Emulator, appMainPackage=com.tencent.mm, resetKeyboard=true}, platformVersion=5.1.1, webStorageEnabled=false, locationContextEnabled=false, browserName=Android, takesScreenshot=true, javascriptEnabled=true, unicodeKeyboard=true, platformName=Android, resetKeyboard=true}]
+[2017-01-23 17:24:18,027] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：登录方式[By.id:com.tencent.mm:id/c4k]
+[2017-01-23 17:24:18,678] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：登录方式[By.id:com.tencent.mm:id/c4k]
+[2017-01-23 17:24:20,257] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：登录方式[By.id:com.tencent.mm:id/c4k]
+[2017-01-23 17:24:20,805] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：登录方式[By.id:com.tencent.mm:id/c4k]
+[2017-01-23 17:24:21,384] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：登录方式[By.id:com.tencent.mm:id/c4k]
+[2017-01-23 17:24:21,931] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：登录方式[By.id:com.tencent.mm:id/c4k]
+[2017-01-23 17:24:22,476] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：登录方式[By.id:com.tencent.mm:id/c4k]
+[2017-01-23 17:24:23,084] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：登录方式[By.id:com.tencent.mm:id/c4k]
+[2017-01-23 17:24:23,634] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：登录方式[By.id:com.tencent.mm:id/c4k]
+[2017-01-23 17:24:24,207] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：登录方式[By.id:com.tencent.mm:id/c4k]
+[2017-01-23 17:24:24,768] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：登录方式[By.id:com.tencent.mm:id/c4k]
+[2017-01-23 17:24:25,316] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：登录方式[By.id:com.tencent.mm:id/c4k]
+[2017-01-23 17:24:25,888] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：登录方式[By.id:com.tencent.mm:id/c4k]
+[2017-01-23 17:24:26,464] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：登录方式[By.id:com.tencent.mm:id/c4k]
+[2017-01-23 17:24:27,047] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：登录方式[By.id:com.tencent.mm:id/c4k]
+[2017-01-23 17:24:27,609] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：登录方式[By.id:com.tencent.mm:id/c4k]
+[2017-01-23 17:24:28,132] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：登录方式[By.id:com.tencent.mm:id/c4k]
+[2017-01-23 17:24:28,666] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：登录方式[By.id:com.tencent.mm:id/c4k]
+[2017-01-23 17:24:29,236] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：登录方式[By.id:com.tencent.mm:id/c4k]
+[2017-01-23 17:33:15,469] INFO  org.webdriver.mindaiappui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-01-23 17:33:15,474] INFO  org.webdriver.mindaiappui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-01-23 17:33:15,510] INFO  org.webdriver.mindaiappui.utils.ElementAction 等待10秒
+[2017-01-23 17:33:25,510] INFO  org.webdriver.mindaiappui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub设备名字：Android Emulator
+[2017-01-23 17:33:42,654] ERROR org.webdriver.mindaiappui.utils.TestBaseCase appium环境配置失败
+[2017-01-23 17:33:42,758] INFO  org.webdriver.mindaiappui.utils.TestListener 测试用例:登录测试---start
+[2017-01-23 17:33:42,759] INFO  org.webdriver.mindaiappui.utils.TestListener 测试用例:登录测试---start
+[2017-01-23 17:33:42,763] ERROR org.webdriver.mindaiappui.utils.TestListener 0
+[2017-01-23 17:37:19,908] INFO  org.webdriver.mindaiappui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-01-23 17:37:19,914] INFO  org.webdriver.mindaiappui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-01-23 17:37:19,955] INFO  org.webdriver.mindaiappui.utils.ElementAction 等待10秒
+[2017-01-23 17:37:29,955] INFO  org.webdriver.mindaiappui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub设备名字：Android Emulator
+[2017-01-23 17:37:30,409] ERROR org.webdriver.mindaiappui.utils.TestBaseCase appium环境配置失败
+[2017-01-23 17:37:30,514] INFO  org.webdriver.mindaiappui.utils.TestListener 测试用例:登录测试---start
+[2017-01-23 17:37:30,516] INFO  org.webdriver.mindaiappui.utils.TestListener 测试用例:登录测试---start
+[2017-01-23 17:37:30,520] ERROR org.webdriver.mindaiappui.utils.TestListener 0
+[2017-01-23 17:38:31,331] INFO  org.webdriver.mindaiappui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-01-23 17:38:31,336] INFO  org.webdriver.mindaiappui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-01-23 17:38:31,369] INFO  org.webdriver.mindaiappui.utils.ElementAction 等待10秒
+[2017-01-23 17:38:41,369] INFO  org.webdriver.mindaiappui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub设备名字：Android Emulator
+[2017-01-23 17:39:09,166] ERROR org.webdriver.mindaiappui.utils.TestBaseCase appium环境配置失败
+[2017-01-23 17:39:09,275] INFO  org.webdriver.mindaiappui.utils.TestListener 测试用例:登录测试---start
+[2017-01-23 17:39:09,277] INFO  org.webdriver.mindaiappui.utils.TestListener 测试用例:登录测试---start
+[2017-01-23 17:39:09,285] ERROR org.webdriver.mindaiappui.utils.TestListener 0
+[2017-01-23 17:39:54,041] INFO  org.webdriver.mindaiappui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-01-23 17:39:54,048] INFO  org.webdriver.mindaiappui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-01-23 17:39:54,081] INFO  org.webdriver.mindaiappui.utils.ElementAction 等待10秒
+[2017-01-23 17:40:04,082] INFO  org.webdriver.mindaiappui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub设备名字：Android Emulator
+[2017-01-23 17:40:10,030] ERROR org.webdriver.mindaiappui.utils.TestBaseCase appium环境配置失败
+[2017-01-23 17:40:10,147] INFO  org.webdriver.mindaiappui.utils.TestListener 测试用例:登录测试---start
+[2017-01-23 17:40:10,148] INFO  org.webdriver.mindaiappui.utils.TestListener 测试用例:登录测试---start
+[2017-01-23 17:40:10,153] ERROR org.webdriver.mindaiappui.utils.TestListener 0
+[2017-01-23 17:40:22,803] INFO  org.webdriver.mindaiappui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-01-23 17:40:22,811] INFO  org.webdriver.mindaiappui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-01-23 17:40:22,851] INFO  org.webdriver.mindaiappui.utils.ElementAction 等待10秒
+[2017-01-23 17:40:32,852] INFO  org.webdriver.mindaiappui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub设备名字：Android Emulator
+[2017-01-23 17:40:45,923] ERROR org.webdriver.mindaiappui.utils.TestBaseCase appium环境配置失败
+[2017-01-23 17:40:46,033] INFO  org.webdriver.mindaiappui.utils.TestListener 测试用例:登录测试---start
+[2017-01-23 17:40:46,034] INFO  org.webdriver.mindaiappui.utils.TestListener 测试用例:登录测试---start
+[2017-01-23 17:40:46,039] ERROR org.webdriver.mindaiappui.utils.TestListener 0
+[2017-01-23 17:42:29,366] INFO  org.webdriver.mindaiappui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-01-23 17:42:29,371] INFO  org.webdriver.mindaiappui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-01-23 17:42:29,407] INFO  org.webdriver.mindaiappui.utils.ElementAction 等待10秒
+[2017-01-23 17:42:39,408] INFO  org.webdriver.mindaiappui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub设备名字：Android Emulator
+[2017-01-23 17:42:52,075] ERROR org.webdriver.mindaiappui.utils.TestBaseCase appium环境配置失败
+[2017-01-23 17:42:52,179] INFO  org.webdriver.mindaiappui.utils.TestListener 测试用例:登录测试---start
+[2017-01-23 17:42:52,180] INFO  org.webdriver.mindaiappui.utils.TestListener 测试用例:登录测试---start
+[2017-01-23 17:42:52,186] ERROR org.webdriver.mindaiappui.utils.TestListener 0
+[2017-01-23 17:44:46,823] INFO  org.webdriver.mindaiappui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-01-23 17:44:46,829] INFO  org.webdriver.mindaiappui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-01-23 17:44:46,868] INFO  org.webdriver.mindaiappui.utils.ElementAction 等待10秒
+[2017-01-23 17:44:56,869] INFO  org.webdriver.mindaiappui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub设备名字：Android Emulator
+[2017-01-23 17:45:08,053] ERROR org.webdriver.mindaiappui.utils.TestBaseCase appium环境配置失败
+[2017-01-23 17:45:08,163] INFO  org.webdriver.mindaiappui.utils.TestListener 测试用例:登录测试---start
+[2017-01-23 17:45:08,164] INFO  org.webdriver.mindaiappui.utils.TestListener 测试用例:登录测试---start
+[2017-01-23 17:45:08,169] ERROR org.webdriver.mindaiappui.utils.TestListener 0
+[2017-01-23 17:59:03,021] INFO  org.webdriver.mindaiappui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-01-23 17:59:03,027] INFO  org.webdriver.mindaiappui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-01-23 17:59:03,056] INFO  org.webdriver.mindaiappui.utils.ElementAction 等待10秒
+[2017-01-23 17:59:13,057] INFO  org.webdriver.mindaiappui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub设备名字：Android Emulator
+[2017-01-23 18:00:15,669] INFO  org.webdriver.mindaiappui.utils.TestBaseCase Capabilities [{app=F:\Android\mindaiappui\apps\weixin_861.apk, networkConnectionEnabled=true, noSign=true, warnings={}, databaseEnabled=false, deviceName=5843d03c, appMainPackage=com.tencent.mm, platform=LINUX, appActivity=com.tencent.mm.ui.LauncherUI, desired={app=F:\Android\mindaiappui\apps\weixin_861.apk, appActivity=com.tencent.mm.ui.LauncherUI, noSign=true, platformVersion=5.1.1, unicodeKeyboard=true, platformName=Android, deviceName=Android Emulator, appMainPackage=com.tencent.mm, resetKeyboard=true}, platformVersion=5.1.1, webStorageEnabled=false, locationContextEnabled=false, browserName=Android, takesScreenshot=true, javascriptEnabled=true, unicodeKeyboard=true, platformName=Android, resetKeyboard=true}]
+[2017-01-23 18:00:15,766] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：登录方式[By.id:com.tencent.mm:id/c4k]
+[2017-01-23 18:00:16,451] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：登录方式[By.id:com.tencent.mm:id/c4k]
+[2017-01-23 18:00:17,014] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：登录方式[By.id:com.tencent.mm:id/c4k]
+[2017-01-23 18:00:18,422] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：登录方式[By.id:com.tencent.mm:id/c4k]
+[2017-01-23 18:00:18,987] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：登录方式[By.id:com.tencent.mm:id/c4k]
+[2017-01-23 18:00:19,510] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：登录方式[By.id:com.tencent.mm:id/c4k]
+[2017-01-23 18:00:20,061] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：登录方式[By.id:com.tencent.mm:id/c4k]
+[2017-01-23 18:00:20,584] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：登录方式[By.id:com.tencent.mm:id/c4k]
+[2017-01-23 18:00:21,139] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：登录方式[By.id:com.tencent.mm:id/c4k]
+[2017-01-23 18:00:21,735] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：登录方式[By.id:com.tencent.mm:id/c4k]
+[2017-01-23 18:00:22,321] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：登录方式[By.id:com.tencent.mm:id/c4k]
+[2017-01-23 18:00:22,877] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：登录方式[By.id:com.tencent.mm:id/c4k]
+[2017-01-23 18:00:23,409] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：登录方式[By.id:com.tencent.mm:id/c4k]
+[2017-01-23 18:00:23,965] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：登录方式[By.id:com.tencent.mm:id/c4k]
+[2017-01-23 18:00:24,525] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：登录方式[By.id:com.tencent.mm:id/c4k]
+[2017-01-23 18:00:25,091] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：登录方式[By.id:com.tencent.mm:id/c4k]
+[2017-01-23 18:00:25,758] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：登录方式[By.id:com.tencent.mm:id/c4k]
+[2017-01-23 18:00:26,291] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：登录方式[By.id:com.tencent.mm:id/c4k]
+[2017-01-23 18:00:26,849] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：登录方式[By.id:com.tencent.mm:id/c4k]
+[2017-01-23 18:00:27,429] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：登录方式[By.id:com.tencent.mm:id/c4k]
+[2017-01-23 18:14:53,460] INFO  org.webdriver.mindaiappui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-01-23 18:14:53,468] INFO  org.webdriver.mindaiappui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-01-23 18:14:53,505] INFO  org.webdriver.mindaiappui.utils.ElementAction 等待10秒
+[2017-01-23 18:15:03,505] INFO  org.webdriver.mindaiappui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub设备名字：Android Emulator
+[2017-01-23 18:15:22,194] INFO  org.webdriver.mindaiappui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-01-23 18:15:22,199] INFO  org.webdriver.mindaiappui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-01-23 18:15:22,242] INFO  org.webdriver.mindaiappui.utils.ElementAction 等待10秒
+[2017-01-23 18:15:32,242] INFO  org.webdriver.mindaiappui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub设备名字：Android Emulator
+[2017-01-23 18:16:53,270] INFO  org.webdriver.mindaiappui.utils.TestBaseCase Capabilities [{app=F:\Android\mindaiappui\apps\weixin_861.apk, networkConnectionEnabled=true, noSign=true, warnings={}, databaseEnabled=false, deviceName=69P0216304002993, appMainPackage=com.tencent.mm, platform=LINUX, appActivity=com.tencent.mm.ui.LauncherUI, desired={app=F:\Android\mindaiappui\apps\weixin_861.apk, appActivity=com.tencent.mm.ui.LauncherUI, noSign=true, platformVersion=5.1.1, unicodeKeyboard=true, platformName=Android, deviceName=Android Emulator, appMainPackage=com.tencent.mm, resetKeyboard=true}, platformVersion=5.0.2, webStorageEnabled=false, locationContextEnabled=false, browserName=Android, takesScreenshot=true, javascriptEnabled=true, unicodeKeyboard=true, platformName=Android, resetKeyboard=true}]
+[2017-01-23 18:16:53,400] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：登录方式[By.id:com.tencent.mm:id/cbi]
+[2017-01-23 18:16:58,737] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：登录方式[By.id:com.tencent.mm:id/cbi]
+[2017-01-23 18:16:59,265] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：登录方式[By.id:com.tencent.mm:id/cbi]
+[2017-01-23 18:17:01,901] INFO  org.webdriver.mindaiappui.utils.ElementAction click元素：登录[By.id:com.tencent.mm:id/cbi]成功！
+[2017-01-23 18:17:01,907] INFO  org.webdriver.mindaiappui.utils.ElementAction 等待2秒
+[2017-01-23 18:17:03,908] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：使用其他方式登录方式[By.id:com.tencent.mm:id/bcg]
+[2017-01-23 18:17:04,933] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：使用其他方式登录方式[By.id:com.tencent.mm:id/bcg]
+[2017-01-23 18:17:05,937] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：使用其他方式登录方式[By.id:com.tencent.mm:id/bcg]
+[2017-01-23 18:17:08,572] INFO  org.webdriver.mindaiappui.utils.ElementAction click元素：使用其他方式登录[By.id:com.tencent.mm:id/bcg]成功！
+[2017-01-23 18:17:08,572] INFO  org.webdriver.mindaiappui.utils.ElementAction 等待2秒
+[2017-01-23 18:17:10,581] INFO  org.webdriver.mindaiappui.utils.TestListener 测试用例:登录测试---start
+[2017-01-23 18:17:10,585] INFO  org.webdriver.mindaiappui.utils.TestListener 测试用例:登录测试---start
+[2017-01-23 18:17:10,595] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：账号输入框方式[By.id:com.tencent.mm:id/b5r]
+[2017-01-23 18:17:11,134] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：账号输入框方式[By.id:com.tencent.mm:id/b5r]
+[2017-01-23 18:17:11,722] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：账号输入框方式[By.id:com.tencent.mm:id/b5r]
+[2017-01-23 18:17:12,320] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：账号输入框方式[By.id:com.tencent.mm:id/b5r]
+[2017-01-23 18:17:13,356] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：账号输入框方式[By.id:com.tencent.mm:id/b5r]
+[2017-01-23 18:17:13,900] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：账号输入框方式[By.id:com.tencent.mm:id/b5r]
+[2017-01-23 18:17:14,444] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：账号输入框方式[By.id:com.tencent.mm:id/b5r]

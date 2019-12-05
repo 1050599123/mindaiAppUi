@@ -1,0 +1,3 @@
+[2017-09-09 15:13:28,696] INFO  org.webdriver.mindaiappui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-09-09 15:13:28,701] INFO  org.webdriver.mindaiappui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-09-09 15:13:28,713] INFO  org.webdriver.mindaiappui.utils.ElementAction 等待10秒

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestSuite" time="24.413" tests="2" errors="0" skipped="0" failures="1">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="sun.boot.library.path" value="D:\Program Files\Java\jdk1.8.0_91\jre\bin"/>
+    <property name="java.vm.version" value="25.91-b15"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="maven.multiModuleProjectDirectory" value="$M2_HOME"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="path.separator" value=";"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="CN"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.os.patch.level" value="Service Pack 1"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="F:\Android\mindaiAppUi"/>
+    <property name="java.runtime.version" value="1.8.0_91-b15"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="java.endorsed.dirs" value="D:\Program Files\Java\jdk1.8.0_91\jre\lib\endorsed"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\Users\ADMINI~1\AppData\Local\Temp\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 7"/>
+    <property name="classworlds.conf" value="F:\Android\.metadata\.plugins\org.maven.ide.eclipse\launches\m2conf6951152965415125609.tmp"/>
+    <property name="sun.jnu.encoding" value="GBK"/>
+    <property name="java.library.path" value="D:\Program Files\Java\jdk1.8.0_91\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\MySQL\MySQL Server 5.5\bin;D:\Program Files\Java\jdk1.8.0_91\bin;D:\Program Files\Java\jdk1.8.0_91\jre\bin;D:\Program Files\TortoiseSVN\bin;F:\apache-maven-3.3.9\bin;D:\Program Files\Git\cmd;C:\Program Files\nodejs;F:\adt-bundle-windows-x86_64-20140321\sdk\platform-tools;F:\adt-bundle-windows-x86_64-20140321\sdk\tools;C:\Python27;F:\apache-ant-1.9.7\bin;D:\tgit\bin;C:\Python27\Scripts;C:\Python27\Lib;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Users\Administrator\AppData\Roaming\npm;."/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="6.1"/>
+    <property name="user.home" value="C:\Users\Administrator"/>
+    <property name="user.timezone" value="Asia/Shanghai"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="user.name" value="Administrator"/>
+    <property name="java.class.path" value="F:\apache-maven-3.3.9\boot\plexus-classworlds-2.5.2.jar"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.home" value="D:\Program Files\Java\jdk1.8.0_91\jre"/>
+    <property name="sun.java.command" value="org.codehaus.classworlds.Launcher -B test"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.language" value="zh"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="1.8.0_91"/>
+    <property name="java.ext.dirs" value="D:\Program Files\Java\jdk1.8.0_91\jre\lib\ext;C:\Windows\Sun\Java\lib\ext"/>
+    <property name="sun.boot.class.path" value="D:\Program Files\Java\jdk1.8.0_91\jre\lib\resources.jar;D:\Program Files\Java\jdk1.8.0_91\jre\lib\rt.jar;D:\Program Files\Java\jdk1.8.0_91\jre\lib\sunrsasign.jar;D:\Program Files\Java\jdk1.8.0_91\jre\lib\jsse.jar;D:\Program Files\Java\jdk1.8.0_91\jre\lib\jce.jar;D:\Program Files\Java\jdk1.8.0_91\jre\lib\charsets.jar;D:\Program Files\Java\jdk1.8.0_91\jre\lib\jfr.jar;D:\Program Files\Java\jdk1.8.0_91\jre\classes"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="F:\apache-maven-3.3.9"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase name="loginFail" classname="org.webdriver.mindaiappui.cases.LoginTest" time="24.413"/>
+  <testcase name="loginFail" classname="org.webdriver.mindaiappui.cases.LoginTest" time="27.993">
+    <failure message="An unknown server-side error occurred while processing the command. (WARNING: The server did not provide any stacktrace information)&#10;Command duration or timeout: 371 milliseconds&#10;Build info: version: &apos;2.53.1&apos;, revision: &apos;a36b8b1cd5757287168e54b817830adce9b0158d&apos;, time: &apos;2016-06-30 19:26:09&apos;&#10;System info: host: &apos;hepeng&apos;, ip: &apos;192.168.3.81&apos;, os.name: &apos;Windows 7&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.1&apos;, java.version: &apos;1.8.0_91&apos;&#10;Driver info: io.appium.java_client.android.AndroidDriver&#10;Capabilities [{app=F:\Android\mindaiAppUi\apps\mdcn_420.apk, appActivity=.activity.WelcomeActivity, noReset=True, noSign=True, platformVersion=7.0, automationName=uiautomator2, unicodeKeyboard=True, platformName=Android, deviceName=Android Emulator, appMainPackage=com.mdcn.mdonline, resetKeyboard=True, platform=ANY}]&#10;Session ID: c885bca1-f115-4796-9572-280f0d44a91a" type="org.openqa.selenium.WebDriverException"><![CDATA[org.openqa.selenium.WebDriverException: An unknown server-side error occurred while processing the command. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 371 milliseconds
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'hepeng', ip: '192.168.3.81', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_91'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities [{app=F:\Android\mindaiAppUi\apps\mdcn_420.apk, appActivity=.activity.WelcomeActivity, noReset=True, noSign=True, platformVersion=7.0, automationName=uiautomator2, unicodeKeyboard=True, platformName=Android, deviceName=Android Emulator, appMainPackage=com.mdcn.mdonline, resetKeyboard=True, platform=ANY}]
+Session ID: c885bca1-f115-4796-9572-280f0d44a91a
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at io.appium.java_client.DefaultGenericMobileDriver.execute(DefaultGenericMobileDriver.java:51)
+	at io.appium.java_client.AppiumDriver.execute(AppiumDriver.java:1)
+	at io.appium.java_client.android.AndroidDriver.execute(AndroidDriver.java:1)
+	at io.appium.java_client.AppiumDriver.performTouchAction(AppiumDriver.java:369)
+	at io.appium.java_client.TouchAction.perform(TouchAction.java:323)
+	at org.webdriver.mindaiappui.action.GesturecipherAction.<init>(GesturecipherAction.java:41)
+	at org.webdriver.mindaiappui.cases.LoginTest.loginFail(LoginTest.java:59)
+]]></failure>
+    <system-out><![CDATA[[2018-04-24 22:35:55,171] INFO  org.webdriver.mindaiappui.utils.TestListener 测试用例: 登录失败用例--passed
+[2018-04-24 22:35:55,171] INFO  org.webdriver.mindaiappui.utils.TestListener 测试用例:登录失败用例---end
+[2018-04-24 22:35:55,171] INFO  org.webdriver.mindaiappui.utils.TestListener 测试用例:登录失败用例---start
+[2018-04-24 22:35:55,172] INFO  org.webdriver.mindaiappui.utils.ElementAction 等待5秒判断元素：com.mdcn.mdonline:id/btn_login_login是否存在
+[2018-04-24 22:36:00,172] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找一组元素：登录按钮 方式[By.id:com.mdcn.mdonline:id/btn_login_login]
+[2018-04-24 22:36:00,287] INFO  org.webdriver.mindaiappui.utils.ElementAction 判断结果为：true
+[2018-04-24 22:36:00,296] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：账号输入框方式[By.id:com.mdcn.mdonline:id/cet_login_phone]
+[2018-04-24 22:36:00,442] INFO  org.webdriver.mindaiappui.utils.ElementAction click元素：账号输入框[By.id:com.mdcn.mdonline:id/cet_login_phone]成功！
+[2018-04-24 22:36:00,443] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：账号输入框方式[By.id:com.mdcn.mdonline:id/cet_login_phone]
+[2018-04-24 22:36:01,817] INFO  org.webdriver.mindaiappui.utils.ElementAction 清除input值:账号输入框[By.id:com.mdcn.mdonline:id/cet_login_phone]
+[2018-04-24 22:36:01,817] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：账号输入框方式[By.id:com.mdcn.mdonline:id/cet_login_phone]
+[2018-04-24 22:36:03,410] INFO  org.webdriver.mindaiappui.utils.ElementAction input输入：账号输入框[By.id:com.mdcn.mdonline:id/cet_login_phone  value:13610015232]
+[2018-04-24 22:36:03,410] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：密码输入框方式[By.id:com.mdcn.mdonline:id/cet_login_password]
+[2018-04-24 22:36:04,450] INFO  org.webdriver.mindaiappui.utils.ElementAction click元素：密码输入框[By.id:com.mdcn.mdonline:id/cet_login_password]成功！
+[2018-04-24 22:36:04,450] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：密码输入框方式[By.id:com.mdcn.mdonline:id/cet_login_password]
+[2018-04-24 22:36:05,854] INFO  org.webdriver.mindaiappui.utils.ElementAction 清除input值:密码输入框[By.id:com.mdcn.mdonline:id/cet_login_password]
+[2018-04-24 22:36:05,855] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：密码输入框方式[By.id:com.mdcn.mdonline:id/cet_login_password]
+[2018-04-24 22:36:07,214] INFO  org.webdriver.mindaiappui.utils.ElementAction input输入：密码输入框[By.id:com.mdcn.mdonline:id/cet_login_password  value:123456]
+[2018-04-24 22:36:07,215] INFO  org.webdriver.mindaiappui.utils.ElementAction 等待1秒
+[2018-04-24 22:36:08,215] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：登录按钮方式[By.id:com.mdcn.mdonline:id/btn_login_login]
+[2018-04-24 22:36:08,326] INFO  org.webdriver.mindaiappui.utils.ElementAction click元素：登录按钮[By.id:com.mdcn.mdonline:id/btn_login_login]成功！
+[2018-04-24 22:36:08,326] INFO  org.webdriver.mindaiappui.utils.ElementAction 等待4秒
+[2018-04-24 22:36:12,326] INFO  org.webdriver.mindaiappui.utils.Assertion 验证是否出现预期的错误提示信息:登录成功:【Assert验证】:页面是否出现【预期值：登录成功】字符串
+//*[contains(@text,'登录成功')]
+[2018-04-24 22:36:12,392] ERROR org.webdriver.mindaiappui.utils.Assertion 【Assert验证  failed!】
+[2018-04-24 22:36:13,919] ERROR org.webdriver.mindaiappui.utils.ScreenShot 错误截图：F:\Android\mindaiAppUi\test-output\snapshot\2018-04-24 223612394.jpg
+[2018-04-24 22:36:13,919] INFO  org.webdriver.mindaiappui.utils.ElementAction 等待5秒判断元素：com.mdcn.mdonline:id/gesturepwd_create_text是否存在
+[2018-04-24 22:36:18,920] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找一组元素：设置手势密码 方式[By.id:com.mdcn.mdonline:id/gesturepwd_create_text]
+[2018-04-24 22:36:19,028] INFO  org.webdriver.mindaiappui.utils.ElementAction 判断结果为：true
+[2018-04-24 22:36:19,037] INFO  org.webdriver.mindaiappui.utils.ElementAction 等待1秒
+[2018-04-24 22:36:20,037] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找一组元素：手势密码九宫格触屏区域 方式[By.id:com.mdcn.mdonline:id/gesturepwd_create_lockview]
+开始设置手势密码，L形手势
+[2018-04-24 22:36:20,776] INFO  org.webdriver.mindaiappui.utils.ElementAction 等待2秒
+]]></system-out>
+  </testcase>
+</testsuite>

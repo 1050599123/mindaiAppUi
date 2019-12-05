@@ -1,0 +1,754 @@
+[2017-01-24 10:29:27,773] INFO  org.webdriver.patatiumappui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-01-24 10:29:27,778] INFO  org.webdriver.patatiumappui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-01-24 10:29:27,806] INFO  org.webdriver.patatiumappui.utils.ElementAction 等待10秒
+[2017-01-24 10:29:37,806] INFO  org.webdriver.patatiumappui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub设备名字：Android Emulator
+[2017-01-24 10:29:51,601] INFO  org.webdriver.patatiumappui.utils.TestBaseCase Capabilities [{app=F:\Android\PatatiumAppUi\apps\weixin_861.apk, networkConnectionEnabled=true, noSign=true, warnings={}, databaseEnabled=false, deviceName=5843d03c, appMainPackage=com.tencent.mm, platform=LINUX, appActivity=com.tencent.mm.ui.LauncherUI, desired={app=F:\Android\PatatiumAppUi\apps\weixin_861.apk, appActivity=com.tencent.mm.ui.LauncherUI, noSign=true, platformVersion=5.1.1, unicodeKeyboard=true, platformName=Android, deviceName=Android Emulator, appMainPackage=com.tencent.mm, resetKeyboard=true}, platformVersion=5.1.1, webStorageEnabled=false, locationContextEnabled=false, browserName=Android, takesScreenshot=true, javascriptEnabled=true, unicodeKeyboard=true, platformName=Android, resetKeyboard=true}]
+[2017-01-24 10:29:51,663] INFO  org.webdriver.patatiumappui.utils.TestListener 测试用例:登录测试---start
+[2017-01-24 10:29:51,664] INFO  org.webdriver.patatiumappui.utils.TestListener 测试用例:登录测试---start
+[2017-01-24 10:29:55,149] ERROR org.webdriver.patatiumappui.utils.ScreenShot 错误截图：F:\Android\PatatiumAppUi\test-output\snapshot\登录测试.jpg
+[2017-01-24 10:29:55,150] WARN  org.webdriver.patatiumappui.utils.TestListener 测试用例: 登录测试--skipped
+[2017-01-24 10:29:55,150] INFO  org.webdriver.patatiumappui.utils.TestListener 测试用例:登录测试---end
+[2017-01-24 10:29:56,807] ERROR org.webdriver.patatiumappui.utils.ScreenShot 错误截图：F:\Android\PatatiumAppUi\test-output\snapshot\登录测试.jpg
+[2017-01-24 10:29:56,807] WARN  org.webdriver.patatiumappui.utils.TestListener 测试用例: 登录测试--skipped
+[2017-01-24 10:29:56,807] INFO  org.webdriver.patatiumappui.utils.TestListener 测试用例:登录测试---end
+[2017-01-24 10:29:56,826] INFO  org.webdriver.patatiumappui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-01-24 10:29:56,829] INFO  org.webdriver.patatiumappui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-01-24 10:29:56,854] INFO  org.webdriver.patatiumappui.utils.ElementAction 等待10秒
+[2017-01-24 10:30:06,855] INFO  org.webdriver.patatiumappui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub设备名字：Android Emulator
+[2017-01-24 10:30:06,882] ERROR org.webdriver.patatiumappui.utils.TestBaseCase appium环境配置失败
+[2017-01-24 10:30:06,905] INFO  org.apache.http.impl.execchain.RetryExec I/O exception (java.net.SocketException) caught when processing request to {}->http://127.0.0.1:4723: Connection reset
+[2017-01-24 10:30:06,906] INFO  org.apache.http.impl.execchain.RetryExec Retrying request to {}->http://127.0.0.1:4723
+[2017-01-24 10:32:01,821] INFO  org.webdriver.patatiumappui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-01-24 10:32:01,826] INFO  org.webdriver.patatiumappui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-01-24 10:32:01,859] INFO  org.webdriver.patatiumappui.utils.ElementAction 等待10秒
+[2017-01-24 10:32:11,860] INFO  org.webdriver.patatiumappui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub设备名字：Android Emulator
+[2017-01-24 10:32:25,461] INFO  org.webdriver.patatiumappui.utils.TestBaseCase Capabilities [{app=F:\Android\PatatiumAppUi\apps\weixin_861.apk, networkConnectionEnabled=true, noSign=true, warnings={}, databaseEnabled=false, deviceName=5843d03c, appMainPackage=com.tencent.mm, platform=LINUX, appActivity=com.tencent.mm.ui.LauncherUI, desired={app=F:\Android\PatatiumAppUi\apps\weixin_861.apk, appActivity=com.tencent.mm.ui.LauncherUI, noSign=true, platformVersion=5.1.1, unicodeKeyboard=true, platformName=Android, deviceName=Android Emulator, appMainPackage=com.tencent.mm, resetKeyboard=true}, platformVersion=5.1.1, webStorageEnabled=false, locationContextEnabled=false, browserName=Android, takesScreenshot=true, javascriptEnabled=true, unicodeKeyboard=true, platformName=Android, resetKeyboard=true}]
+[2017-01-24 10:32:25,513] INFO  org.webdriver.patatiumappui.utils.TestListener 测试用例:登录测试---start
+[2017-01-24 10:32:25,514] INFO  org.webdriver.patatiumappui.utils.TestListener 测试用例:登录测试---start
+[2017-01-24 10:51:00,122] INFO  org.webdriver.patatiumappui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-01-24 10:51:00,127] INFO  org.webdriver.patatiumappui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-01-24 10:51:00,210] INFO  org.webdriver.patatiumappui.utils.ElementAction 等待10秒
+[2017-01-24 10:51:10,211] INFO  org.webdriver.patatiumappui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub设备名字：Android Emulator
+[2017-01-24 10:51:42,624] INFO  org.webdriver.patatiumappui.utils.TestBaseCase Capabilities [{app=F:\Android\PatatiumAppUi\apps\weixin_861.apk, networkConnectionEnabled=true, noSign=true, warnings={}, databaseEnabled=false, deviceName=5843d03c, appMainPackage=com.tencent.mm, platform=LINUX, appActivity=com.tencent.mm.ui.LauncherUI, desired={app=F:\Android\PatatiumAppUi\apps\weixin_861.apk, appActivity=com.tencent.mm.ui.LauncherUI, noSign=true, platformVersion=5.1.1, unicodeKeyboard=true, platformName=Android, deviceName=Android Emulator, appMainPackage=com.tencent.mm, resetKeyboard=true}, platformVersion=5.1.1, webStorageEnabled=false, locationContextEnabled=false, browserName=Android, takesScreenshot=true, javascriptEnabled=true, unicodeKeyboard=true, platformName=Android, resetKeyboard=true}]
+[2017-01-24 10:51:42,676] INFO  org.webdriver.patatiumappui.utils.TestListener 测试用例:登录测试---start
+[2017-01-24 10:51:42,677] INFO  org.webdriver.patatiumappui.utils.TestListener 测试用例:登录测试---start
+[2017-01-24 11:20:59,696] INFO  org.webdriver.patatiumappui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-01-24 11:20:59,702] INFO  org.webdriver.patatiumappui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-01-24 11:20:59,729] INFO  org.webdriver.patatiumappui.utils.ElementAction 等待10秒
+[2017-01-24 11:21:09,729] INFO  org.webdriver.patatiumappui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub设备名字：Android Emulator
+[2017-01-24 11:21:22,729] INFO  org.webdriver.patatiumappui.utils.TestBaseCase Capabilities [{app=F:\Android\PatatiumAppUi\apps\weixin_861.apk, networkConnectionEnabled=true, noSign=true, warnings={}, databaseEnabled=false, deviceName=5843d03c, appMainPackage=com.tencent.mm, platform=LINUX, appActivity=com.tencent.mm.ui.LauncherUI, desired={app=F:\Android\PatatiumAppUi\apps\weixin_861.apk, appActivity=com.tencent.mm.ui.LauncherUI, noSign=true, platformVersion=5.1.1, unicodeKeyboard=true, platformName=Android, deviceName=Android Emulator, appMainPackage=com.tencent.mm, resetKeyboard=true}, platformVersion=5.1.1, webStorageEnabled=false, locationContextEnabled=false, browserName=Android, takesScreenshot=true, javascriptEnabled=true, unicodeKeyboard=true, platformName=Android, resetKeyboard=true}]
+[2017-01-24 11:21:22,782] INFO  org.webdriver.patatiumappui.utils.TestListener 测试用例:登录测试---start
+[2017-01-24 11:21:22,783] INFO  org.webdriver.patatiumappui.utils.TestListener 测试用例:登录测试---start
+[2017-01-24 11:21:26,108] ERROR org.webdriver.patatiumappui.utils.ScreenShot 错误截图：F:\Android\PatatiumAppUi\test-output\snapshot\登录测试.jpg
+[2017-01-24 11:21:26,109] WARN  org.webdriver.patatiumappui.utils.TestListener 测试用例: 登录测试--skipped
+[2017-01-24 11:21:26,109] INFO  org.webdriver.patatiumappui.utils.TestListener 测试用例:登录测试---end
+[2017-01-24 11:22:38,411] INFO  org.webdriver.patatiumappui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-01-24 11:22:38,417] INFO  org.webdriver.patatiumappui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-01-24 11:22:38,448] INFO  org.webdriver.patatiumappui.utils.ElementAction 等待10秒
+[2017-01-24 11:22:48,448] INFO  org.webdriver.patatiumappui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub设备名字：Android Emulator
+[2017-01-24 11:23:01,530] INFO  org.webdriver.patatiumappui.utils.TestBaseCase Capabilities [{app=F:\Android\PatatiumAppUi\apps\weixin_861.apk, networkConnectionEnabled=true, noSign=true, warnings={}, databaseEnabled=false, deviceName=5843d03c, appMainPackage=com.tencent.mm, platform=LINUX, appActivity=com.tencent.mm.ui.LauncherUI, desired={app=F:\Android\PatatiumAppUi\apps\weixin_861.apk, appActivity=com.tencent.mm.ui.LauncherUI, noSign=true, platformVersion=5.1.1, unicodeKeyboard=true, platformName=Android, deviceName=Android Emulator, appMainPackage=com.tencent.mm, resetKeyboard=true}, platformVersion=5.1.1, webStorageEnabled=false, locationContextEnabled=false, browserName=Android, takesScreenshot=true, javascriptEnabled=true, unicodeKeyboard=true, platformName=Android, resetKeyboard=true}]
+[2017-01-24 11:23:01,627] INFO  org.webdriver.patatiumappui.utils.ElementAction 查找元素：登录方式[By.id:com.tencent.mm:id/cbi]
+[2017-01-24 11:23:03,651] INFO  org.webdriver.patatiumappui.utils.ElementAction click元素：登录[By.id:com.tencent.mm:id/cbi]成功！
+[2017-01-24 11:23:03,659] INFO  org.webdriver.patatiumappui.utils.ElementAction 等待2秒
+[2017-01-24 11:23:05,660] INFO  org.webdriver.patatiumappui.utils.ElementAction 查找元素：使用其他方式登录方式[By.id:com.tencent.mm:id/bcg]
+[2017-01-24 11:23:06,142] INFO  org.webdriver.patatiumappui.utils.ElementAction click元素：使用其他方式登录[By.id:com.tencent.mm:id/bcg]成功！
+[2017-01-24 11:23:06,142] INFO  org.webdriver.patatiumappui.utils.ElementAction 等待2秒
+[2017-01-24 11:23:08,152] INFO  org.webdriver.patatiumappui.utils.TestListener 测试用例:登录测试---start
+[2017-01-24 11:23:08,156] INFO  org.webdriver.patatiumappui.utils.TestListener 测试用例:登录测试---start
+[2017-01-24 11:23:08,167] INFO  org.webdriver.patatiumappui.utils.ElementAction 查找元素：账号输入框方式[By.id:com.tencent.mm:id/b5r]
+[2017-01-24 11:23:08,767] INFO  org.webdriver.patatiumappui.utils.ElementAction 查找元素：账号输入框方式[By.id:com.tencent.mm:id/b5r]
+[2017-01-24 11:23:09,335] INFO  org.webdriver.patatiumappui.utils.ElementAction 查找元素：账号输入框方式[By.id:com.tencent.mm:id/b5r]
+[2017-01-24 11:23:10,040] INFO  org.webdriver.patatiumappui.utils.ElementAction 查找元素：账号输入框方式[By.id:com.tencent.mm:id/b5r]
+[2017-01-24 11:23:11,155] INFO  org.webdriver.patatiumappui.utils.ElementAction 查找元素：账号输入框方式[By.id:com.tencent.mm:id/b5r]
+[2017-01-24 11:28:13,692] INFO  org.webdriver.mindaiappui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-01-24 11:28:13,697] INFO  org.webdriver.mindaiappui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-01-24 11:28:13,734] INFO  org.webdriver.mindaiappui.utils.ElementAction 等待10秒
+[2017-01-24 11:28:23,735] INFO  org.webdriver.mindaiappui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub设备名字：Android Emulator
+[2017-01-24 11:28:38,055] INFO  org.webdriver.mindaiappui.utils.TestBaseCase Capabilities [{app=F:\Android\PatatiumAppUi\apps\weixin_861.apk, networkConnectionEnabled=true, noSign=true, warnings={}, databaseEnabled=false, deviceName=5843d03c, appMainPackage=com.tencent.mm, platform=LINUX, appActivity=com.tencent.mm.ui.LauncherUI, desired={app=F:\Android\PatatiumAppUi\apps\weixin_861.apk, appActivity=com.tencent.mm.ui.LauncherUI, noSign=true, platformVersion=5.1.1, unicodeKeyboard=true, platformName=Android, deviceName=Android Emulator, appMainPackage=com.tencent.mm, resetKeyboard=true}, platformVersion=5.1.1, webStorageEnabled=false, locationContextEnabled=false, browserName=Android, takesScreenshot=true, javascriptEnabled=true, unicodeKeyboard=true, platformName=Android, resetKeyboard=true}]
+[2017-01-24 11:28:38,158] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：登录方式[By.id:com.tencent.mm:id/cbi]
+[2017-01-24 11:28:40,156] INFO  org.webdriver.mindaiappui.utils.ElementAction click元素：登录[By.id:com.tencent.mm:id/cbi]成功！
+[2017-01-24 11:28:40,202] INFO  org.webdriver.mindaiappui.utils.ElementAction 等待2秒
+[2017-01-24 11:28:42,203] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：使用其他方式登录方式[By.id:com.tencent.mm:id/bcg]
+[2017-01-24 11:28:42,631] INFO  org.webdriver.mindaiappui.utils.ElementAction click元素：使用其他方式登录[By.id:com.tencent.mm:id/bcg]成功！
+[2017-01-24 11:28:42,631] INFO  org.webdriver.mindaiappui.utils.ElementAction 等待2秒
+[2017-01-24 11:28:44,641] INFO  org.webdriver.mindaiappui.utils.TestListener 测试用例:登录测试---start
+[2017-01-24 11:28:44,646] INFO  org.webdriver.mindaiappui.utils.TestListener 测试用例:登录测试---start
+[2017-01-24 11:28:44,657] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：账号输入框方式[By.id:com.tencent.mm:id/b5r]
+[2017-01-24 11:28:45,216] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：账号输入框方式[By.id:com.tencent.mm:id/b5r]
+[2017-01-24 11:28:45,766] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：账号输入框方式[By.id:com.tencent.mm:id/b5r]
+[2017-01-24 11:30:22,155] INFO  org.webdriver.mindaiappui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-01-24 11:30:22,160] INFO  org.webdriver.mindaiappui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-01-24 11:30:22,189] INFO  org.webdriver.mindaiappui.utils.ElementAction 等待10秒
+[2017-01-24 11:30:32,190] INFO  org.webdriver.mindaiappui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub设备名字：Android Emulator
+[2017-01-24 11:30:47,611] INFO  org.webdriver.mindaiappui.utils.TestBaseCase Capabilities [{app=F:\Android\mindaiAppUi\apps\weixin_861.apk, networkConnectionEnabled=true, noSign=true, warnings={}, databaseEnabled=false, deviceName=5843d03c, appMainPackage=com.tencent.mm, platform=LINUX, appActivity=com.tencent.mm.ui.LauncherUI, desired={app=F:\Android\mindaiAppUi\apps\weixin_861.apk, appActivity=com.tencent.mm.ui.LauncherUI, noSign=true, platformVersion=5.1.1, unicodeKeyboard=true, platformName=Android, deviceName=Android Emulator, appMainPackage=com.tencent.mm, resetKeyboard=true}, platformVersion=5.1.1, webStorageEnabled=false, locationContextEnabled=false, browserName=Android, takesScreenshot=true, javascriptEnabled=true, unicodeKeyboard=true, platformName=Android, resetKeyboard=true}]
+[2017-01-24 11:30:47,709] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：登录方式[By.id:com.tencent.mm:id/cbi]
+[2017-01-24 11:30:50,040] INFO  org.webdriver.mindaiappui.utils.ElementAction click元素：登录[By.id:com.tencent.mm:id/cbi]成功！
+[2017-01-24 11:30:50,095] INFO  org.webdriver.mindaiappui.utils.ElementAction 等待2秒
+[2017-01-24 11:30:52,095] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：使用其他方式登录方式[By.id:com.tencent.mm:id/bcg]
+[2017-01-24 11:30:52,562] INFO  org.webdriver.mindaiappui.utils.ElementAction click元素：使用其他方式登录[By.id:com.tencent.mm:id/bcg]成功！
+[2017-01-24 11:30:52,562] INFO  org.webdriver.mindaiappui.utils.ElementAction 等待2秒
+[2017-01-24 11:30:54,570] INFO  org.webdriver.mindaiappui.utils.TestListener 测试用例:登录测试---start
+[2017-01-24 11:30:54,575] INFO  org.webdriver.mindaiappui.utils.TestListener 测试用例:登录测试---start
+[2017-01-24 11:30:54,585] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：账号输入框方式[By.id:com.tencent.mm:id/b5r]
+[2017-01-24 11:30:55,918] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：账号输入框方式[By.id:com.tencent.mm:id/b5r]
+[2017-01-24 11:30:56,478] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：账号输入框方式[By.id:com.tencent.mm:id/b5r]
+[2017-01-24 11:30:57,031] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：账号输入框方式[By.id:com.tencent.mm:id/b5r]
+[2017-01-24 11:30:57,625] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：账号输入框方式[By.id:com.tencent.mm:id/b5r]
+[2017-01-24 11:30:58,175] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：账号输入框方式[By.id:com.tencent.mm:id/b5r]
+[2017-01-24 11:30:59,496] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：账号输入框方式[By.id:com.tencent.mm:id/b5r]
+[2017-01-24 11:31:00,055] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：账号输入框方式[By.id:com.tencent.mm:id/b5r]
+[2017-01-24 11:31:00,609] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：账号输入框方式[By.id:com.tencent.mm:id/b5r]
+[2017-01-24 11:31:01,235] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：账号输入框方式[By.id:com.tencent.mm:id/b5r]
+[2017-01-24 11:31:01,788] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：账号输入框方式[By.id:com.tencent.mm:id/b5r]
+[2017-01-24 11:31:02,394] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：账号输入框方式[By.id:com.tencent.mm:id/b5r]
+[2017-01-24 11:31:03,992] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：账号输入框方式[By.id:com.tencent.mm:id/b5r]
+[2017-01-24 11:31:04,546] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：账号输入框方式[By.id:com.tencent.mm:id/b5r]
+[2017-01-24 11:31:05,096] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：账号输入框方式[By.id:com.tencent.mm:id/b5r]
+[2017-01-24 11:31:05,676] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：账号输入框方式[By.id:com.tencent.mm:id/b5r]
+[2017-01-24 11:31:06,328] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：账号输入框方式[By.id:com.tencent.mm:id/b5r]
+[2017-01-24 11:31:06,889] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：账号输入框方式[By.id:com.tencent.mm:id/b5r]
+[2017-01-24 11:31:07,450] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：账号输入框方式[By.id:com.tencent.mm:id/b5r]
+[2017-01-24 11:31:08,011] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：账号输入框方式[By.id:com.tencent.mm:id/b5r]
+[2017-01-24 11:31:08,729] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：账号输入框方式[By.id:com.tencent.mm:id/b5r]
+[2017-01-24 11:31:09,407] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：账号输入框方式[By.id:com.tencent.mm:id/b5r]
+[2017-01-24 11:31:10,064] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：账号输入框方式[By.id:com.tencent.mm:id/b5r]
+[2017-01-24 11:31:10,716] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：账号输入框方式[By.id:com.tencent.mm:id/b5r]
+[2017-01-24 11:31:11,273] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：账号输入框方式[By.id:com.tencent.mm:id/b5r]
+[2017-01-24 11:31:11,992] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：账号输入框方式[By.id:com.tencent.mm:id/b5r]
+[2017-01-24 11:31:12,663] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：账号输入框方式[By.id:com.tencent.mm:id/b5r]
+[2017-01-24 11:31:13,225] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：账号输入框方式[By.id:com.tencent.mm:id/b5r]
+[2017-01-24 11:31:13,779] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：账号输入框方式[By.id:com.tencent.mm:id/b5r]
+[2017-01-24 11:31:14,341] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：账号输入框方式[By.id:com.tencent.mm:id/b5r]
+[2017-01-24 11:31:15,007] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：账号输入框方式[By.id:com.tencent.mm:id/b5r]
+[2017-01-24 11:31:15,085] INFO  org.webdriver.mindaiappui.utils.ElementAction 超时无法定位页面元素
+[2017-01-24 11:31:15,743] ERROR org.webdriver.mindaiappui.utils.ScreenShot 错误截图：F:\Android\mindaiAppUi\test-output\snapshot\2017-01-24 113115096.jpg
+[2017-01-24 11:31:15,744] INFO  org.webdriver.mindaiappui.utils.ElementAction 2017-01-24 113115096
+[2017-01-24 11:31:15,746] ERROR org.webdriver.mindaiappui.utils.TestListener 0
+[2017-01-24 11:31:16,346] ERROR org.webdriver.mindaiappui.utils.ScreenShot 错误截图：F:\Android\mindaiAppUi\test-output\snapshot\登录测试0.jpg
+[2017-01-24 11:31:16,348] ERROR org.webdriver.mindaiappui.utils.TestListener 测试用例: 登录测试--failed
+[2017-01-24 11:31:16,348] INFO  org.webdriver.mindaiappui.utils.TestListener 测试用例:登录测试---end
+[2017-01-24 11:31:16,351] ERROR org.webdriver.mindaiappui.utils.TestListener 0
+[2017-01-24 11:31:16,990] ERROR org.webdriver.mindaiappui.utils.ScreenShot 错误截图：F:\Android\mindaiAppUi\test-output\snapshot\登录测试0.jpg
+[2017-01-24 11:31:16,992] ERROR org.webdriver.mindaiappui.utils.TestListener 测试用例: 登录测试--failed
+[2017-01-24 11:31:16,993] INFO  org.webdriver.mindaiappui.utils.TestListener 测试用例:登录测试---end
+[2017-01-24 11:31:18,274] INFO  org.webdriver.mindaiappui.utils.TestBaseCase 关闭appium server
+[2017-01-24 11:31:18,300] INFO  org.webdriver.mindaiappui.utils.TestBaseCase -------------结束测试，并关闭退出driver及appium server-------------
+[2017-01-24 11:31:18,312] INFO  org.webdriver.mindaiappui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-01-24 11:31:18,315] INFO  org.webdriver.mindaiappui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-01-24 11:31:18,348] INFO  org.webdriver.mindaiappui.utils.ElementAction 等待10秒
+[2017-01-24 11:31:28,348] INFO  org.webdriver.mindaiappui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub设备名字：Android Emulator
+[2017-01-24 11:31:43,956] INFO  org.webdriver.mindaiappui.utils.TestBaseCase Capabilities [{app=F:\Android\mindaiAppUi\apps\weixin_861.apk, networkConnectionEnabled=true, noSign=true, warnings={}, databaseEnabled=false, deviceName=5843d03c, appMainPackage=com.tencent.mm, platform=LINUX, appActivity=com.tencent.mm.ui.LauncherUI, desired={app=F:\Android\mindaiAppUi\apps\weixin_861.apk, appActivity=com.tencent.mm.ui.LauncherUI, noSign=true, platformVersion=5.1.1, unicodeKeyboard=true, platformName=Android, deviceName=Android Emulator, appMainPackage=com.tencent.mm, resetKeyboard=true}, platformVersion=5.1.1, webStorageEnabled=false, locationContextEnabled=false, browserName=Android, takesScreenshot=true, javascriptEnabled=true, unicodeKeyboard=true, platformName=Android, resetKeyboard=true}]
+[2017-01-24 11:31:43,962] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：登录方式[By.id:com.tencent.mm:id/cbi]
+[2017-01-24 11:31:46,140] INFO  org.webdriver.mindaiappui.utils.ElementAction click元素：登录[By.id:com.tencent.mm:id/cbi]成功！
+[2017-01-24 11:31:46,145] INFO  org.webdriver.mindaiappui.utils.ElementAction 等待2秒
+[2017-01-24 11:31:48,145] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：使用其他方式登录方式[By.id:com.tencent.mm:id/bcg]
+[2017-01-24 11:31:48,567] INFO  org.webdriver.mindaiappui.utils.ElementAction click元素：使用其他方式登录[By.id:com.tencent.mm:id/bcg]成功！
+[2017-01-24 11:31:48,567] INFO  org.webdriver.mindaiappui.utils.ElementAction 等待2秒
+[2017-01-24 11:31:51,197] ERROR org.webdriver.mindaiappui.utils.ScreenShot 错误截图：F:\Android\mindaiAppUi\test-output\snapshot\登录失败用例:数据驱动例子.jpg
+[2017-01-24 11:31:51,198] WARN  org.webdriver.mindaiappui.utils.TestListener 测试用例: 登录失败用例:数据驱动例子--skipped
+[2017-01-24 11:31:51,198] INFO  org.webdriver.mindaiappui.utils.TestListener 测试用例:登录失败用例:数据驱动例子---end
+[2017-01-24 11:31:51,995] ERROR org.webdriver.mindaiappui.utils.ScreenShot 错误截图：F:\Android\mindaiAppUi\test-output\snapshot\登录失败用例:数据驱动例子.jpg
+[2017-01-24 11:31:51,995] WARN  org.webdriver.mindaiappui.utils.TestListener 测试用例: 登录失败用例:数据驱动例子--skipped
+[2017-01-24 11:31:51,995] INFO  org.webdriver.mindaiappui.utils.TestListener 测试用例:登录失败用例:数据驱动例子---end
+[2017-01-24 11:31:53,261] INFO  org.webdriver.mindaiappui.utils.TestBaseCase 关闭appium server
+[2017-01-24 11:31:53,290] INFO  org.webdriver.mindaiappui.utils.TestBaseCase -------------结束测试，并关闭退出driver及appium server-------------
+[2017-01-24 11:31:57,463] ERROR org.webdriver.mindaiappui.utils.SendMail 发送邮件失败！
+[2017-01-24 11:36:56,357] INFO  org.webdriver.mindaiappui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-01-24 11:36:56,365] INFO  org.webdriver.mindaiappui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-01-24 11:36:56,402] INFO  org.webdriver.mindaiappui.utils.ElementAction 等待10秒
+[2017-01-24 11:37:06,402] INFO  org.webdriver.mindaiappui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub设备名字：Android Emulator
+[2017-01-24 11:37:22,778] INFO  org.webdriver.mindaiappui.utils.TestBaseCase Capabilities [{app=F:\Android\mindaiAppUi\apps\weixin_861.apk, networkConnectionEnabled=true, noSign=true, warnings={}, databaseEnabled=false, deviceName=5843d03c, appMainPackage=com.tencent.mm, platform=LINUX, appActivity=com.tencent.mm.ui.LauncherUI, desired={app=F:\Android\mindaiAppUi\apps\weixin_861.apk, appActivity=com.tencent.mm.ui.LauncherUI, noSign=true, platformVersion=5.1.1, unicodeKeyboard=true, platformName=Android, deviceName=Android Emulator, appMainPackage=com.tencent.mm, resetKeyboard=true}, platformVersion=5.1.1, webStorageEnabled=false, locationContextEnabled=false, browserName=Android, takesScreenshot=true, javascriptEnabled=true, unicodeKeyboard=true, platformName=Android, resetKeyboard=true}]
+[2017-01-24 11:37:22,875] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：登录方式[By.id:com.tencent.mm:id/cbi]
+[2017-01-24 11:37:23,641] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：登录方式[By.id:com.tencent.mm:id/cbi]
+[2017-01-24 11:37:25,178] INFO  org.webdriver.mindaiappui.utils.ElementAction click元素：登录[By.id:com.tencent.mm:id/cbi]成功！
+[2017-01-24 11:37:25,184] INFO  org.webdriver.mindaiappui.utils.ElementAction 等待2秒
+[2017-01-24 11:37:27,184] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：使用其他方式登录方式[By.id:com.tencent.mm:id/bcg]
+[2017-01-24 14:57:22,959] INFO  org.webdriver.mindaiappui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-01-24 14:57:22,966] INFO  org.webdriver.mindaiappui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-01-24 14:57:22,997] INFO  org.webdriver.mindaiappui.utils.ElementAction 等待10秒
+[2017-01-24 14:57:32,997] INFO  org.webdriver.mindaiappui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub设备名字：Android Emulator
+[2017-01-24 14:57:44,408] INFO  org.webdriver.mindaiappui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-01-24 14:57:44,413] INFO  org.webdriver.mindaiappui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-01-24 14:57:44,443] INFO  org.webdriver.mindaiappui.utils.ElementAction 等待10秒
+[2017-01-24 14:57:54,443] INFO  org.webdriver.mindaiappui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub设备名字：Android Emulator
+[2017-01-24 14:58:16,874] INFO  org.webdriver.mindaiappui.utils.TestBaseCase Capabilities [{app=F:\Android\MindaiAppUi\apps\weixin_861.apk, networkConnectionEnabled=true, noSign=true, warnings={}, databaseEnabled=false, deviceName=69P0216304002993, appMainPackage=com.tencent.mm, platform=LINUX, appActivity=com.tencent.mm.ui.LauncherUI, desired={app=F:\Android\MindaiAppUi\apps\weixin_861.apk, appActivity=com.tencent.mm.ui.LauncherUI, noSign=true, platformVersion=5.1.1, unicodeKeyboard=true, platformName=Android, deviceName=Android Emulator, appMainPackage=com.tencent.mm, resetKeyboard=true}, platformVersion=5.0.2, webStorageEnabled=false, locationContextEnabled=false, browserName=Android, takesScreenshot=true, javascriptEnabled=true, unicodeKeyboard=true, platformName=Android, resetKeyboard=true}]
+[2017-01-24 14:58:16,972] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：登录方式[By.id:com.tencent.mm:id/cbi]
+[2017-01-24 14:58:19,577] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：登录方式[By.id:com.tencent.mm:id/cbi]
+[2017-01-24 14:58:20,128] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：登录方式[By.id:com.tencent.mm:id/cbi]
+[2017-01-24 14:58:20,657] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：登录方式[By.id:com.tencent.mm:id/cbi]
+[2017-01-24 14:58:22,290] INFO  org.webdriver.mindaiappui.utils.ElementAction click元素：登录[By.id:com.tencent.mm:id/cbi]成功！
+[2017-01-24 14:58:22,299] INFO  org.webdriver.mindaiappui.utils.ElementAction 等待2秒
+[2017-01-24 14:58:24,299] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：使用其他方式登录方式[By.id:com.tencent.mm:id/bcg]
+[2017-01-24 14:58:24,843] INFO  org.webdriver.mindaiappui.utils.ElementAction click元素：使用其他方式登录[By.id:com.tencent.mm:id/bcg]成功！
+[2017-01-24 14:58:24,843] INFO  org.webdriver.mindaiappui.utils.ElementAction 等待2秒
+[2017-01-24 14:58:26,850] INFO  org.webdriver.mindaiappui.utils.TestListener 测试用例:登录测试---start
+[2017-01-24 14:58:26,855] INFO  org.webdriver.mindaiappui.utils.TestListener 测试用例:登录测试---start
+[2017-01-24 14:58:26,868] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：账号输入框方式[By.id:com.tencent.mm:id/b5r]
+[2017-01-24 14:58:27,413] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：账号输入框方式[By.id:com.tencent.mm:id/b5r]
+[2017-01-24 14:58:28,037] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：账号输入框方式[By.id:com.tencent.mm:id/b5r]
+[2017-01-24 14:58:28,760] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：账号输入框方式[By.id:com.tencent.mm:id/b5r]
+[2017-01-24 14:58:29,413] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：账号输入框方式[By.id:com.tencent.mm:id/b5r]
+[2017-01-24 14:58:30,727] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：账号输入框方式[By.id:com.tencent.mm:id/b5r]
+[2017-01-24 15:39:19,665] INFO  org.webdriver.mindaiappui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-01-24 15:39:19,670] INFO  org.webdriver.mindaiappui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-01-24 15:39:19,707] INFO  org.webdriver.mindaiappui.utils.ElementAction 等待10秒
+[2017-01-24 15:39:33,797] INFO  org.webdriver.mindaiappui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-01-24 15:39:33,802] INFO  org.webdriver.mindaiappui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-01-24 15:39:33,842] INFO  org.webdriver.mindaiappui.utils.ElementAction 等待10秒
+[2017-01-24 15:39:43,842] INFO  org.webdriver.mindaiappui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub设备名字：Android Emulator
+[2017-01-24 15:39:44,246] ERROR org.webdriver.mindaiappui.utils.TestBaseCase appium环境配置失败
+[2017-01-24 15:39:44,350] INFO  org.webdriver.mindaiappui.utils.TestListener 测试用例:登录测试---start
+[2017-01-24 15:39:44,351] INFO  org.webdriver.mindaiappui.utils.TestListener 测试用例:登录测试---start
+[2017-01-24 15:39:44,354] ERROR org.webdriver.mindaiappui.utils.TestListener 0
+[2017-01-24 15:41:23,603] INFO  org.webdriver.mindaiappui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-01-24 15:41:23,609] INFO  org.webdriver.mindaiappui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-01-24 15:41:23,638] INFO  org.webdriver.mindaiappui.utils.ElementAction 等待10秒
+[2017-01-24 15:41:33,638] INFO  org.webdriver.mindaiappui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub设备名字：Android Emulator
+[2017-01-24 15:42:37,165] ERROR org.webdriver.mindaiappui.utils.TestBaseCase appium环境配置失败
+[2017-01-24 15:42:37,289] INFO  org.webdriver.mindaiappui.utils.TestListener 测试用例:登录测试---start
+[2017-01-24 15:42:37,290] INFO  org.webdriver.mindaiappui.utils.TestListener 测试用例:登录测试---start
+[2017-01-24 15:42:37,296] ERROR org.webdriver.mindaiappui.utils.TestListener 0
+[2017-01-24 15:43:38,865] INFO  org.webdriver.mindaiappui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-01-24 15:43:38,874] INFO  org.webdriver.mindaiappui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-01-24 15:43:38,905] INFO  org.webdriver.mindaiappui.utils.ElementAction 等待10秒
+[2017-01-24 15:43:48,906] INFO  org.webdriver.mindaiappui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub设备名字：Android Emulator
+[2017-01-24 15:44:02,204] ERROR org.webdriver.mindaiappui.utils.TestBaseCase appium环境配置失败
+[2017-01-24 15:44:02,309] INFO  org.webdriver.mindaiappui.utils.TestListener 测试用例:登录测试---start
+[2017-01-24 15:44:02,310] INFO  org.webdriver.mindaiappui.utils.TestListener 测试用例:登录测试---start
+[2017-01-24 15:44:02,314] ERROR org.webdriver.mindaiappui.utils.TestListener 0
+[2017-01-24 15:54:29,006] INFO  org.webdriver.mindaiappui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-01-24 15:54:29,013] INFO  org.webdriver.mindaiappui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-01-24 15:54:29,050] INFO  org.webdriver.mindaiappui.utils.ElementAction 等待10秒
+[2017-01-24 15:54:39,051] INFO  org.webdriver.mindaiappui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub设备名字：Android Emulator
+[2017-01-24 15:54:53,387] ERROR org.webdriver.mindaiappui.utils.TestBaseCase appium环境配置失败
+[2017-01-24 15:54:53,496] INFO  org.webdriver.mindaiappui.utils.TestListener 测试用例:登录测试---start
+[2017-01-24 15:54:53,497] INFO  org.webdriver.mindaiappui.utils.TestListener 测试用例:登录测试---start
+[2017-01-24 15:54:53,501] ERROR org.webdriver.mindaiappui.utils.TestListener 0
+[2017-01-24 15:58:27,895] INFO  org.webdriver.mindaiappui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-01-24 15:58:27,901] INFO  org.webdriver.mindaiappui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-01-24 15:58:27,938] INFO  org.webdriver.mindaiappui.utils.ElementAction 等待10秒
+[2017-01-24 15:58:37,938] INFO  org.webdriver.mindaiappui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub设备名字：Android Emulator
+[2017-01-24 15:58:50,655] INFO  org.webdriver.mindaiappui.utils.TestBaseCase Capabilities [{app=F:\Android\MindaiAppUi\apps\mdcn_420.apk, networkConnectionEnabled=true, noSign=true, warnings={}, databaseEnabled=false, deviceName=69P0216304002993, appMainPackage=com.mdcn.mdonline, platform=LINUX, appActivity=.activity.WelcomeActivity, desired={app=F:\Android\MindaiAppUi\apps\mdcn_420.apk, appActivity=.activity.WelcomeActivity, noSign=true, platformVersion=5.1.1, unicodeKeyboard=true, platformName=Android, deviceName=Android Emulator, appMainPackage=com.mdcn.mdonline, resetKeyboard=true}, platformVersion=5.0.2, webStorageEnabled=false, locationContextEnabled=false, browserName=Android, takesScreenshot=true, javascriptEnabled=true, unicodeKeyboard=true, platformName=Android, resetKeyboard=true}]
+[2017-01-24 15:58:50,764] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：立即体验方式[By.id:com.mdcn.mdonline:id/v_guide_next]
+[2017-01-24 15:58:52,689] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：立即体验方式[By.id:com.mdcn.mdonline:id/v_guide_next]
+[2017-01-24 15:58:53,260] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：立即体验方式[By.id:com.mdcn.mdonline:id/v_guide_next]
+[2017-01-24 15:58:53,803] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：立即体验方式[By.id:com.mdcn.mdonline:id/v_guide_next]
+[2017-01-24 15:58:54,330] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：立即体验方式[By.id:com.mdcn.mdonline:id/v_guide_next]
+[2017-01-24 15:58:54,998] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：立即体验方式[By.id:com.mdcn.mdonline:id/v_guide_next]
+[2017-01-24 15:58:56,686] INFO  org.webdriver.mindaiappui.utils.ElementAction click元素：立即体验[By.id:com.mdcn.mdonline:id/v_guide_next]成功！
+[2017-01-24 15:58:56,692] INFO  org.webdriver.mindaiappui.utils.ElementAction 等待2秒
+[2017-01-24 15:58:58,701] INFO  org.webdriver.mindaiappui.utils.TestListener 测试用例:登录测试---start
+[2017-01-24 15:58:58,705] INFO  org.webdriver.mindaiappui.utils.TestListener 测试用例:登录测试---start
+[2017-01-24 15:58:58,715] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：暂不更新方式[By.id:com.mdcn.mdonline:id/tv_dg_confirm_confirm]
+[2017-01-24 15:58:59,285] INFO  org.webdriver.mindaiappui.utils.ElementAction click元素：暂不更新[By.id:com.mdcn.mdonline:id/tv_dg_confirm_confirm]成功！
+[2017-01-24 15:58:59,285] INFO  org.webdriver.mindaiappui.utils.ElementAction 等待1秒
+[2017-01-24 15:59:00,285] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：选择服务器方式[By.id:com.mdcn.mdonline:id/tv_ba_left]
+[2017-01-24 15:59:02,538] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：选择服务器方式[By.id:com.mdcn.mdonline:id/tv_ba_left]
+[2017-01-24 15:59:03,864] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：选择服务器方式[By.id:com.mdcn.mdonline:id/tv_ba_left]
+[2017-01-24 15:59:04,557] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：选择服务器方式[By.id:com.mdcn.mdonline:id/tv_ba_left]
+[2017-01-24 15:59:05,282] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：选择服务器方式[By.id:com.mdcn.mdonline:id/tv_ba_left]
+[2017-01-24 15:59:05,876] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：选择服务器方式[By.id:com.mdcn.mdonline:id/tv_ba_left]
+[2017-01-24 15:59:06,443] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：选择服务器方式[By.id:com.mdcn.mdonline:id/tv_ba_left]
+[2017-01-24 15:59:07,205] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：选择服务器方式[By.id:com.mdcn.mdonline:id/tv_ba_left]
+[2017-01-24 15:59:07,812] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：选择服务器方式[By.id:com.mdcn.mdonline:id/tv_ba_left]
+[2017-01-24 15:59:08,579] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：选择服务器方式[By.id:com.mdcn.mdonline:id/tv_ba_left]
+[2017-01-24 15:59:09,194] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：选择服务器方式[By.id:com.mdcn.mdonline:id/tv_ba_left]
+[2017-01-24 15:59:09,968] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：选择服务器方式[By.id:com.mdcn.mdonline:id/tv_ba_left]
+[2017-01-24 15:59:10,576] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：选择服务器方式[By.id:com.mdcn.mdonline:id/tv_ba_left]
+[2017-01-24 15:59:11,336] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：选择服务器方式[By.id:com.mdcn.mdonline:id/tv_ba_left]
+[2017-01-24 15:59:11,944] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：选择服务器方式[By.id:com.mdcn.mdonline:id/tv_ba_left]
+[2017-01-24 15:59:12,686] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：选择服务器方式[By.id:com.mdcn.mdonline:id/tv_ba_left]
+[2017-01-24 15:59:13,491] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：选择服务器方式[By.id:com.mdcn.mdonline:id/tv_ba_left]
+[2017-01-24 15:59:14,153] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：选择服务器方式[By.id:com.mdcn.mdonline:id/tv_ba_left]
+[2017-01-24 15:59:14,885] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：选择服务器方式[By.id:com.mdcn.mdonline:id/tv_ba_left]
+[2017-01-24 15:59:15,452] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：选择服务器方式[By.id:com.mdcn.mdonline:id/tv_ba_left]
+[2017-01-24 15:59:16,029] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：选择服务器方式[By.id:com.mdcn.mdonline:id/tv_ba_left]
+[2017-01-24 15:59:16,618] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：选择服务器方式[By.id:com.mdcn.mdonline:id/tv_ba_left]
+[2017-01-24 15:59:17,236] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：选择服务器方式[By.id:com.mdcn.mdonline:id/tv_ba_left]
+[2017-01-24 15:59:17,934] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：选择服务器方式[By.id:com.mdcn.mdonline:id/tv_ba_left]
+[2017-01-24 15:59:18,509] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：选择服务器方式[By.id:com.mdcn.mdonline:id/tv_ba_left]
+[2017-01-24 15:59:19,137] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：选择服务器方式[By.id:com.mdcn.mdonline:id/tv_ba_left]
+[2017-01-24 15:59:19,975] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：选择服务器方式[By.id:com.mdcn.mdonline:id/tv_ba_left]
+[2017-01-24 15:59:20,699] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：选择服务器方式[By.id:com.mdcn.mdonline:id/tv_ba_left]
+[2017-01-24 15:59:20,768] INFO  org.webdriver.mindaiappui.utils.ElementAction 超时无法定位页面元素
+[2017-01-24 15:59:21,777] ERROR org.webdriver.mindaiappui.utils.ScreenShot 错误截图：F:\Android\MindaiAppUi\test-output\snapshot\2017-01-24 155920777.jpg
+[2017-01-24 15:59:21,778] INFO  org.webdriver.mindaiappui.utils.ElementAction 2017-01-24 155920777
+[2017-01-24 15:59:21,780] ERROR org.webdriver.mindaiappui.utils.TestListener 0
+[2017-01-24 15:59:22,716] ERROR org.webdriver.mindaiappui.utils.ScreenShot 错误截图：F:\Android\MindaiAppUi\test-output\snapshot\登录测试0.jpg
+[2017-01-24 15:59:22,718] ERROR org.webdriver.mindaiappui.utils.TestListener 测试用例: 登录测试--failed
+[2017-01-24 15:59:22,718] INFO  org.webdriver.mindaiappui.utils.TestListener 测试用例:登录测试---end
+[2017-01-24 15:59:22,724] ERROR org.webdriver.mindaiappui.utils.TestListener 0
+[2017-01-24 15:59:23,288] ERROR org.webdriver.mindaiappui.utils.ScreenShot 错误截图：F:\Android\MindaiAppUi\test-output\snapshot\登录测试0.jpg
+[2017-01-24 15:59:23,290] ERROR org.webdriver.mindaiappui.utils.TestListener 测试用例: 登录测试--failed
+[2017-01-24 15:59:23,290] INFO  org.webdriver.mindaiappui.utils.TestListener 测试用例:登录测试---end
+[2017-01-24 15:59:24,851] INFO  org.webdriver.mindaiappui.utils.TestBaseCase 关闭appium server
+[2017-01-24 15:59:24,884] INFO  org.webdriver.mindaiappui.utils.TestBaseCase -------------结束测试，并关闭退出driver及appium server-------------
+[2017-01-24 15:59:24,894] INFO  org.webdriver.mindaiappui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-01-24 15:59:24,897] INFO  org.webdriver.mindaiappui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-01-24 15:59:24,933] INFO  org.webdriver.mindaiappui.utils.ElementAction 等待10秒
+[2017-01-24 15:59:34,933] INFO  org.webdriver.mindaiappui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub设备名字：Android Emulator
+[2017-01-24 15:59:46,841] INFO  org.webdriver.mindaiappui.utils.TestBaseCase Capabilities [{app=F:\Android\MindaiAppUi\apps\mdcn_420.apk, networkConnectionEnabled=true, noSign=true, warnings={}, databaseEnabled=false, deviceName=69P0216304002993, appMainPackage=com.mdcn.mdonline, platform=LINUX, appActivity=.activity.WelcomeActivity, desired={app=F:\Android\MindaiAppUi\apps\mdcn_420.apk, appActivity=.activity.WelcomeActivity, noSign=true, platformVersion=5.1.1, unicodeKeyboard=true, platformName=Android, deviceName=Android Emulator, appMainPackage=com.mdcn.mdonline, resetKeyboard=true}, platformVersion=5.0.2, webStorageEnabled=false, locationContextEnabled=false, browserName=Android, takesScreenshot=true, javascriptEnabled=true, unicodeKeyboard=true, platformName=Android, resetKeyboard=true}]
+[2017-01-24 15:59:46,848] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：立即体验方式[By.id:com.mdcn.mdonline:id/v_guide_next]
+[2017-01-24 15:59:48,836] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：立即体验方式[By.id:com.mdcn.mdonline:id/v_guide_next]
+[2017-01-24 15:59:49,391] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：立即体验方式[By.id:com.mdcn.mdonline:id/v_guide_next]
+[2017-01-24 15:59:49,908] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：立即体验方式[By.id:com.mdcn.mdonline:id/v_guide_next]
+[2017-01-24 15:59:50,486] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：立即体验方式[By.id:com.mdcn.mdonline:id/v_guide_next]
+[2017-01-24 15:59:51,131] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：立即体验方式[By.id:com.mdcn.mdonline:id/v_guide_next]
+[2017-01-24 15:59:52,490] INFO  org.webdriver.mindaiappui.utils.ElementAction click元素：立即体验[By.id:com.mdcn.mdonline:id/v_guide_next]成功！
+[2017-01-24 15:59:52,496] INFO  org.webdriver.mindaiappui.utils.ElementAction 等待2秒
+[2017-01-24 15:59:55,474] ERROR org.webdriver.mindaiappui.utils.ScreenShot 错误截图：F:\Android\MindaiAppUi\test-output\snapshot\登录失败用例:数据驱动例子.jpg
+[2017-01-24 15:59:55,474] WARN  org.webdriver.mindaiappui.utils.TestListener 测试用例: 登录失败用例:数据驱动例子--skipped
+[2017-01-24 15:59:55,474] INFO  org.webdriver.mindaiappui.utils.TestListener 测试用例:登录失败用例:数据驱动例子---end
+[2017-01-24 15:59:56,454] ERROR org.webdriver.mindaiappui.utils.ScreenShot 错误截图：F:\Android\MindaiAppUi\test-output\snapshot\登录失败用例:数据驱动例子.jpg
+[2017-01-24 15:59:56,454] WARN  org.webdriver.mindaiappui.utils.TestListener 测试用例: 登录失败用例:数据驱动例子--skipped
+[2017-01-24 15:59:56,454] INFO  org.webdriver.mindaiappui.utils.TestListener 测试用例:登录失败用例:数据驱动例子---end
+[2017-01-24 15:59:57,959] INFO  org.webdriver.mindaiappui.utils.TestBaseCase 关闭appium server
+[2017-01-24 15:59:57,992] INFO  org.webdriver.mindaiappui.utils.TestBaseCase -------------结束测试，并关闭退出driver及appium server-------------
+[2017-01-24 16:00:04,972] ERROR org.webdriver.mindaiappui.utils.SendMail 发送邮件失败！
+[2017-01-24 16:05:45,098] INFO  org.webdriver.mindaiappui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-01-24 16:05:45,103] INFO  org.webdriver.mindaiappui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-01-24 16:05:45,138] INFO  org.webdriver.mindaiappui.utils.ElementAction 等待10秒
+[2017-01-24 16:05:55,138] INFO  org.webdriver.mindaiappui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub设备名字：Android Emulator
+[2017-01-24 16:05:55,945] ERROR org.webdriver.mindaiappui.utils.TestBaseCase appium环境配置失败
+[2017-01-24 16:05:56,088] INFO  org.webdriver.mindaiappui.utils.TestListener 测试用例:登录测试---start
+[2017-01-24 16:05:56,089] INFO  org.webdriver.mindaiappui.utils.TestListener 测试用例:登录测试---start
+[2017-01-24 16:05:56,095] ERROR org.webdriver.mindaiappui.utils.TestListener 0
+[2017-01-24 16:06:08,456] INFO  org.webdriver.mindaiappui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-01-24 16:06:08,461] INFO  org.webdriver.mindaiappui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-01-24 16:06:08,498] INFO  org.webdriver.mindaiappui.utils.ElementAction 等待10秒
+[2017-01-24 16:06:18,499] INFO  org.webdriver.mindaiappui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub设备名字：Android Emulator
+[2017-01-24 16:06:32,344] INFO  org.webdriver.mindaiappui.utils.TestBaseCase Capabilities [{app=F:\Android\MindaiAppUi\apps\mdcn_420.apk, networkConnectionEnabled=true, noSign=true, warnings={}, databaseEnabled=false, deviceName=69P0216304002993, appMainPackage=com.mdcn.mdonline, platform=LINUX, appActivity=.activity.WelcomeActivity, desired={app=F:\Android\MindaiAppUi\apps\mdcn_420.apk, appActivity=.activity.WelcomeActivity, noSign=true, platformVersion=5.1.1, unicodeKeyboard=true, platformName=Android, deviceName=Android Emulator, appMainPackage=com.mdcn.mdonline, resetKeyboard=true}, platformVersion=5.0.2, webStorageEnabled=false, locationContextEnabled=false, browserName=Android, takesScreenshot=true, javascriptEnabled=true, unicodeKeyboard=true, platformName=Android, resetKeyboard=true}]
+[2017-01-24 16:06:32,449] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：立即体验方式[By.id:com.mdcn.mdonline:id/v_guide_next]
+[2017-01-24 16:06:34,605] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：立即体验方式[By.id:com.mdcn.mdonline:id/v_guide_next]
+[2017-01-24 16:06:35,133] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：立即体验方式[By.id:com.mdcn.mdonline:id/v_guide_next]
+[2017-01-24 16:06:35,653] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：立即体验方式[By.id:com.mdcn.mdonline:id/v_guide_next]
+[2017-01-24 16:06:36,702] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：立即体验方式[By.id:com.mdcn.mdonline:id/v_guide_next]
+[2017-01-24 16:06:38,089] INFO  org.webdriver.mindaiappui.utils.ElementAction click元素：立即体验[By.id:com.mdcn.mdonline:id/v_guide_next]成功！
+[2017-01-24 16:06:38,096] INFO  org.webdriver.mindaiappui.utils.ElementAction 等待2秒
+[2017-01-24 16:06:40,104] INFO  org.webdriver.mindaiappui.utils.TestListener 测试用例:登录测试---start
+[2017-01-24 16:06:40,108] INFO  org.webdriver.mindaiappui.utils.TestListener 测试用例:登录测试---start
+[2017-01-24 16:06:40,119] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：暂不更新方式[By.id:com.mdcn.mdonline:id/tv_dg_confirm_confirm]
+[2017-01-24 16:06:41,602] INFO  org.webdriver.mindaiappui.utils.ElementAction click元素：暂不更新[By.id:com.mdcn.mdonline:id/tv_dg_confirm_confirm]成功！
+[2017-01-24 16:06:41,602] INFO  org.webdriver.mindaiappui.utils.ElementAction 等待1秒
+[2017-01-24 16:06:42,602] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：选择服务器方式[By.name:服务器]
+[2017-01-24 16:06:53,986] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：选择服务器方式[By.name:服务器]
+[2017-01-24 16:06:56,297] INFO  org.webdriver.mindaiappui.utils.ElementAction click元素：选择服务器[By.name:服务器]成功！
+[2017-01-24 16:06:56,297] INFO  org.webdriver.mindaiappui.utils.ElementAction 等待1秒
+[2017-01-24 16:06:57,298] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：服务器地址方式[By.name:设置手势密码]
+[2017-01-24 16:06:57,953] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：服务器地址方式[By.name:设置手势密码]
+[2017-01-24 16:06:58,657] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：服务器地址方式[By.name:设置手势密码]
+[2017-01-24 16:06:59,255] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：服务器地址方式[By.name:设置手势密码]
+[2017-01-24 16:06:59,939] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：服务器地址方式[By.name:设置手势密码]
+[2017-01-24 16:07:00,575] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：服务器地址方式[By.name:设置手势密码]
+[2017-01-24 16:07:01,218] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：服务器地址方式[By.name:设置手势密码]
+[2017-01-24 16:07:02,003] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：服务器地址方式[By.name:设置手势密码]
+[2017-01-24 16:07:02,717] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：服务器地址方式[By.name:设置手势密码]
+[2017-01-24 16:07:03,323] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：服务器地址方式[By.name:设置手势密码]
+[2017-01-24 16:07:04,006] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：服务器地址方式[By.name:设置手势密码]
+[2017-01-24 16:07:05,148] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：服务器地址方式[By.name:设置手势密码]
+[2017-01-24 16:07:06,072] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：服务器地址方式[By.name:设置手势密码]
+[2017-01-24 16:07:06,725] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：服务器地址方式[By.name:设置手势密码]
+[2017-01-24 16:32:57,645] INFO  org.webdriver.mindaiappui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-01-24 16:32:57,649] INFO  org.webdriver.mindaiappui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-01-24 16:32:57,681] INFO  org.webdriver.mindaiappui.utils.ElementAction 等待10秒
+[2017-01-24 16:33:07,681] INFO  org.webdriver.mindaiappui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub设备名字：Android Emulator
+[2017-01-24 16:33:20,060] INFO  org.webdriver.mindaiappui.utils.TestBaseCase Capabilities [{app=F:\Android\MindaiAppUi\apps\mdcn_420.apk, networkConnectionEnabled=true, noSign=true, warnings={}, databaseEnabled=false, deviceName=69P0216304002993, appMainPackage=com.mdcn.mdonline, platform=LINUX, appActivity=.activity.WelcomeActivity, desired={app=F:\Android\MindaiAppUi\apps\mdcn_420.apk, appActivity=.activity.WelcomeActivity, noSign=true, platformVersion=5.1.1, unicodeKeyboard=true, platformName=Android, deviceName=Android Emulator, appMainPackage=com.mdcn.mdonline, resetKeyboard=true}, platformVersion=5.0.2, webStorageEnabled=false, locationContextEnabled=false, browserName=Android, takesScreenshot=true, javascriptEnabled=true, unicodeKeyboard=true, platformName=Android, resetKeyboard=true}]
+[2017-01-24 16:33:20,164] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：立即体验方式[By.id:com.mdcn.mdonline:id/v_guide_next]
+[2017-01-24 16:33:22,041] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：立即体验方式[By.id:com.mdcn.mdonline:id/v_guide_next]
+[2017-01-24 16:33:22,587] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：立即体验方式[By.id:com.mdcn.mdonline:id/v_guide_next]
+[2017-01-24 16:33:23,109] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：立即体验方式[By.id:com.mdcn.mdonline:id/v_guide_next]
+[2017-01-24 16:33:23,708] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：立即体验方式[By.id:com.mdcn.mdonline:id/v_guide_next]
+[2017-01-24 16:33:24,454] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：立即体验方式[By.id:com.mdcn.mdonline:id/v_guide_next]
+[2017-01-24 16:33:25,574] INFO  org.webdriver.mindaiappui.utils.ElementAction click元素：立即体验[By.id:com.mdcn.mdonline:id/v_guide_next]成功！
+[2017-01-24 16:33:25,581] INFO  org.webdriver.mindaiappui.utils.ElementAction 等待2秒
+[2017-01-24 16:33:27,588] INFO  org.webdriver.mindaiappui.utils.TestListener 测试用例:登录测试---start
+[2017-01-24 16:33:27,592] INFO  org.webdriver.mindaiappui.utils.TestListener 测试用例:登录测试---start
+[2017-01-24 16:33:27,603] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：暂不更新方式[By.id:com.mdcn.mdonline:id/tv_dg_confirm_confirm]
+[2017-01-24 16:33:28,488] INFO  org.webdriver.mindaiappui.utils.ElementAction click元素：暂不更新[By.id:com.mdcn.mdonline:id/tv_dg_confirm_confirm]成功！
+[2017-01-24 16:33:28,488] INFO  org.webdriver.mindaiappui.utils.ElementAction 等待1秒
+[2017-01-24 16:33:29,488] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：选择服务器方式[By.name:服务器]
+[2017-01-24 16:33:40,111] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：选择服务器方式[By.name:服务器]
+[2017-01-24 16:33:42,917] INFO  org.webdriver.mindaiappui.utils.ElementAction click元素：选择服务器[By.name:服务器]成功！
+[2017-01-24 16:33:42,917] INFO  org.webdriver.mindaiappui.utils.ElementAction 等待1秒
+[2017-01-24 16:33:43,917] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：服务器地址方式[By.name:https://phonetest4.mindaitianxia.com/v3/]
+[2017-01-24 16:33:45,637] INFO  org.webdriver.mindaiappui.utils.ElementAction click元素：服务器地址[By.name:https://phonetest4.mindaitianxia.com/v3/]成功！
+[2017-01-24 16:33:45,637] INFO  org.webdriver.mindaiappui.utils.ElementAction 等待1秒
+[2017-01-24 16:33:46,637] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：账户按钮方式[By.name:账户]
+[2017-01-24 16:33:47,288] INFO  org.webdriver.mindaiappui.utils.ElementAction click元素：账户按钮[By.name:账户]成功！
+[2017-01-24 16:33:47,288] INFO  org.webdriver.mindaiappui.utils.ElementAction 等待1秒
+[2017-01-24 16:33:48,289] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：账号输入框方式[By.id:com.mdcn.mdonline:id/login_et_uesrname]
+[2017-01-24 16:33:51,528] INFO  org.webdriver.mindaiappui.utils.ElementAction click元素：账号输入框[By.id:com.mdcn.mdonline:id/login_et_uesrname]成功！
+[2017-01-24 16:33:51,528] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：账号输入框方式[By.id:com.mdcn.mdonline:id/login_et_uesrname]
+[2017-01-24 16:33:54,074] INFO  org.webdriver.mindaiappui.utils.ElementAction 清除input值:账号输入框[By.id:com.mdcn.mdonline:id/login_et_uesrname]
+[2017-01-24 16:33:54,075] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：账号输入框方式[By.id:com.mdcn.mdonline:id/login_et_uesrname]
+[2017-01-24 16:33:58,972] INFO  org.webdriver.mindaiappui.utils.ElementAction input输入：账号输入框[By.id:com.mdcn.mdonline:id/login_et_uesrname  value:*******]
+[2017-01-24 16:33:58,972] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：密码输入框方式[By.id:com.mdcn.mdonline:id/login_et_pw]
+[2017-01-24 16:33:59,687] INFO  org.webdriver.mindaiappui.utils.ElementAction click元素：密码输入框[By.id:com.mdcn.mdonline:id/login_et_pw]成功！
+[2017-01-24 16:33:59,688] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：密码输入框方式[By.id:com.mdcn.mdonline:id/login_et_pw]
+[2017-01-24 16:34:02,603] INFO  org.webdriver.mindaiappui.utils.ElementAction 清除input值:密码输入框[By.id:com.mdcn.mdonline:id/login_et_pw]
+[2017-01-24 16:34:02,603] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：密码输入框方式[By.id:com.mdcn.mdonline:id/login_et_pw]
+[2017-01-24 16:34:07,755] INFO  org.webdriver.mindaiappui.utils.ElementAction input输入：密码输入框[By.id:com.mdcn.mdonline:id/login_et_pw  value:*******]
+[2017-01-24 16:34:07,755] INFO  org.webdriver.mindaiappui.utils.ElementAction 等待1秒
+[2017-01-24 16:34:08,755] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：登录按钮方式[By.id:com.mdcn.mdonline:id/login_btn]
+[2017-01-24 16:34:09,130] INFO  org.webdriver.mindaiappui.utils.ElementAction click元素：登录按钮[By.id:com.mdcn.mdonline:id/login_btn]成功！
+[2017-01-24 16:34:09,130] INFO  org.webdriver.mindaiappui.utils.ElementAction 等待5秒
+[2017-01-24 16:34:14,130] INFO  org.webdriver.mindaiappui.utils.Assertion 验证是否登录成功！:【Assert验证】:页面是否出现【预期值：设置手势密码】字符串
+[2017-01-24 16:34:14,355] INFO  org.webdriver.mindaiappui.utils.Assertion 【Assert验证  pass!】
+[2017-01-24 16:34:14,356] INFO  org.webdriver.mindaiappui.utils.TestListener 测试用例: 登录测试--passed
+[2017-01-24 16:34:14,356] INFO  org.webdriver.mindaiappui.utils.TestListener 测试用例:登录测试---end
+[2017-01-24 16:34:14,361] INFO  org.webdriver.mindaiappui.utils.TestListener 测试用例: 登录测试--passed
+[2017-01-24 16:34:14,361] INFO  org.webdriver.mindaiappui.utils.TestListener 测试用例:登录测试---end
+[2017-01-24 16:34:15,980] INFO  org.webdriver.mindaiappui.utils.TestBaseCase 关闭appium server
+[2017-01-24 16:34:16,009] INFO  org.webdriver.mindaiappui.utils.TestBaseCase -------------结束测试，并关闭退出driver及appium server-------------
+[2017-01-24 16:34:18,458] ERROR org.webdriver.mindaiappui.utils.SendMail 发送邮件失败！
+[2017-01-24 16:50:17,992] INFO  org.webdriver.mindaiappui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-01-24 16:50:17,999] INFO  org.webdriver.mindaiappui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-01-24 16:50:18,029] INFO  org.webdriver.mindaiappui.utils.ElementAction 等待10秒
+[2017-01-24 16:50:28,029] INFO  org.webdriver.mindaiappui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub设备名字：Android Emulator
+[2017-01-24 16:50:40,506] INFO  org.webdriver.mindaiappui.utils.TestBaseCase Capabilities [{app=F:\Android\MindaiAppUi\apps\mdcn_420.apk, networkConnectionEnabled=true, noSign=true, warnings={}, databaseEnabled=false, deviceName=69P0216304002993, appMainPackage=com.mdcn.mdonline, platform=LINUX, appActivity=.activity.WelcomeActivity, desired={app=F:\Android\MindaiAppUi\apps\mdcn_420.apk, appActivity=.activity.WelcomeActivity, noSign=true, platformVersion=5.1.1, unicodeKeyboard=true, platformName=Android, deviceName=Android Emulator, appMainPackage=com.mdcn.mdonline, resetKeyboard=true}, platformVersion=5.0.2, webStorageEnabled=false, locationContextEnabled=false, browserName=Android, takesScreenshot=true, javascriptEnabled=true, unicodeKeyboard=true, platformName=Android, resetKeyboard=true}]
+[2017-01-24 16:50:40,613] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：立即体验方式[By.id:com.mdcn.mdonline:id/v_guide_next]
+[2017-01-24 16:50:42,538] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：立即体验方式[By.id:com.mdcn.mdonline:id/v_guide_next]
+[2017-01-24 16:50:43,081] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：立即体验方式[By.id:com.mdcn.mdonline:id/v_guide_next]
+[2017-01-24 16:50:43,620] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：立即体验方式[By.id:com.mdcn.mdonline:id/v_guide_next]
+[2017-01-24 16:50:44,713] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：立即体验方式[By.id:com.mdcn.mdonline:id/v_guide_next]
+[2017-01-24 16:50:46,141] INFO  org.webdriver.mindaiappui.utils.ElementAction click元素：立即体验[By.id:com.mdcn.mdonline:id/v_guide_next]成功！
+[2017-01-24 16:50:46,151] INFO  org.webdriver.mindaiappui.utils.ElementAction 等待2秒
+[2017-01-24 16:50:48,158] INFO  org.webdriver.mindaiappui.utils.TestListener 测试用例:登录测试---start
+[2017-01-24 16:50:48,162] INFO  org.webdriver.mindaiappui.utils.TestListener 测试用例:登录测试---start
+[2017-01-24 16:50:48,176] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：暂不更新方式[By.id:com.mdcn.mdonline:id/tv_dg_confirm_confirm]
+[2017-01-24 16:50:48,766] INFO  org.webdriver.mindaiappui.utils.ElementAction click元素：暂不更新[By.id:com.mdcn.mdonline:id/tv_dg_confirm_confirm]成功！
+[2017-01-24 16:50:48,766] INFO  org.webdriver.mindaiappui.utils.ElementAction 等待1秒
+[2017-01-24 16:50:49,766] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：选择服务器方式[By.name:服务器]
+[2017-01-24 16:50:55,976] INFO  org.webdriver.mindaiappui.utils.ElementAction click元素：选择服务器[By.name:服务器]成功！
+[2017-01-24 16:50:55,976] INFO  org.webdriver.mindaiappui.utils.ElementAction 等待1秒
+[2017-01-24 16:50:56,976] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：服务器地址方式[By.name:https://phonetest4.mindaitianxia.com/v3/]
+[2017-01-24 16:50:57,502] INFO  org.webdriver.mindaiappui.utils.ElementAction click元素：服务器地址[By.name:https://phonetest4.mindaitianxia.com/v3/]成功！
+[2017-01-24 16:50:57,503] INFO  org.webdriver.mindaiappui.utils.ElementAction 等待1秒
+[2017-01-24 16:50:58,503] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：账户按钮方式[By.name:账户]
+[2017-01-24 16:50:59,177] INFO  org.webdriver.mindaiappui.utils.ElementAction click元素：账户按钮[By.name:账户]成功！
+[2017-01-24 16:50:59,177] INFO  org.webdriver.mindaiappui.utils.ElementAction 等待1秒
+[2017-01-24 16:51:00,178] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：账号输入框方式[By.id:com.mdcn.mdonline:id/login_et_uesrname]
+[2017-01-24 16:51:03,416] INFO  org.webdriver.mindaiappui.utils.ElementAction click元素：账号输入框[By.id:com.mdcn.mdonline:id/login_et_uesrname]成功！
+[2017-01-24 16:51:03,416] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：账号输入框方式[By.id:com.mdcn.mdonline:id/login_et_uesrname]
+[2017-01-24 16:51:06,011] INFO  org.webdriver.mindaiappui.utils.ElementAction 清除input值:账号输入框[By.id:com.mdcn.mdonline:id/login_et_uesrname]
+[2017-01-24 16:51:06,012] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：账号输入框方式[By.id:com.mdcn.mdonline:id/login_et_uesrname]
+[2017-01-24 16:51:10,883] INFO  org.webdriver.mindaiappui.utils.ElementAction input输入：账号输入框[By.id:com.mdcn.mdonline:id/login_et_uesrname  value:*******]
+[2017-01-24 16:51:10,883] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：密码输入框方式[By.id:com.mdcn.mdonline:id/login_et_pw]
+[2017-01-24 16:51:11,574] INFO  org.webdriver.mindaiappui.utils.ElementAction click元素：密码输入框[By.id:com.mdcn.mdonline:id/login_et_pw]成功！
+[2017-01-24 16:51:11,574] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：密码输入框方式[By.id:com.mdcn.mdonline:id/login_et_pw]
+[2017-01-24 16:51:14,441] INFO  org.webdriver.mindaiappui.utils.ElementAction 清除input值:密码输入框[By.id:com.mdcn.mdonline:id/login_et_pw]
+[2017-01-24 16:51:14,441] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：密码输入框方式[By.id:com.mdcn.mdonline:id/login_et_pw]
+[2017-01-24 16:51:19,296] INFO  org.webdriver.mindaiappui.utils.ElementAction input输入：密码输入框[By.id:com.mdcn.mdonline:id/login_et_pw  value:*******]
+[2017-01-24 16:51:19,296] INFO  org.webdriver.mindaiappui.utils.ElementAction 等待1秒
+[2017-01-24 16:51:20,297] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：登录按钮方式[By.id:com.mdcn.mdonline:id/login_btn]
+[2017-01-24 16:51:20,625] INFO  org.webdriver.mindaiappui.utils.ElementAction click元素：登录按钮[By.id:com.mdcn.mdonline:id/login_btn]成功！
+[2017-01-24 16:51:20,626] INFO  org.webdriver.mindaiappui.utils.ElementAction 等待5秒
+[2017-01-24 16:51:25,626] INFO  org.webdriver.mindaiappui.utils.Assertion 验证是否登录成功！:【Assert验证】:页面是否出现【预期值：设置手势密码】字符串
+[2017-01-24 16:51:25,738] INFO  org.webdriver.mindaiappui.utils.Assertion 【Assert验证  pass!】
+[2017-01-24 16:51:25,740] INFO  org.webdriver.mindaiappui.utils.TestListener 测试用例: 登录测试--passed
+[2017-01-24 16:51:25,740] INFO  org.webdriver.mindaiappui.utils.TestListener 测试用例:登录测试---end
+[2017-01-24 16:51:25,757] INFO  org.webdriver.mindaiappui.utils.TestListener 测试用例: 登录测试--passed
+[2017-01-24 16:51:25,757] INFO  org.webdriver.mindaiappui.utils.TestListener 测试用例:登录测试---end
+[2017-01-24 16:51:27,217] INFO  org.webdriver.mindaiappui.utils.TestBaseCase 关闭appium server
+[2017-01-24 16:51:27,248] INFO  org.webdriver.mindaiappui.utils.TestBaseCase -------------结束测试，并关闭退出driver及appium server-------------
+[2017-01-24 16:51:30,501] INFO  org.webdriver.mindaiappui.utils.SendMail 发送邮件成功！
+[2017-01-24 17:25:52,828] INFO  org.webdriver.mindaiappui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-01-24 17:25:52,834] INFO  org.webdriver.mindaiappui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-01-24 17:25:52,872] INFO  org.webdriver.mindaiappui.utils.ElementAction 等待10秒
+[2017-01-24 17:26:02,872] INFO  org.webdriver.mindaiappui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub设备名字：Android Emulator
+[2017-01-24 17:26:15,889] INFO  org.webdriver.mindaiappui.utils.TestBaseCase Capabilities [{app=F:\Android\MindaiAppUi\apps\mdcn_420.apk, networkConnectionEnabled=true, noSign=true, warnings={}, databaseEnabled=false, deviceName=69P0216304002993, appMainPackage=com.mdcn.mdonline, platform=LINUX, appActivity=.activity.WelcomeActivity, desired={app=F:\Android\MindaiAppUi\apps\mdcn_420.apk, appActivity=.activity.WelcomeActivity, noSign=true, platformVersion=5.1.1, unicodeKeyboard=true, platformName=Android, deviceName=Android Emulator, appMainPackage=com.mdcn.mdonline, resetKeyboard=true}, platformVersion=5.0.2, webStorageEnabled=false, locationContextEnabled=false, browserName=Android, takesScreenshot=true, javascriptEnabled=true, unicodeKeyboard=true, platformName=Android, resetKeyboard=true}]
+[2017-01-24 17:26:15,987] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：立即体验方式[By.id:com.mdcn.mdonline:id/v_guide_next]
+[2017-01-24 17:26:18,033] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：立即体验方式[By.id:com.mdcn.mdonline:id/v_guide_next]
+[2017-01-24 17:26:18,579] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：立即体验方式[By.id:com.mdcn.mdonline:id/v_guide_next]
+[2017-01-24 17:26:19,101] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：立即体验方式[By.id:com.mdcn.mdonline:id/v_guide_next]
+[2017-01-24 17:26:19,631] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：立即体验方式[By.id:com.mdcn.mdonline:id/v_guide_next]
+[2017-01-24 17:26:20,450] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：立即体验方式[By.id:com.mdcn.mdonline:id/v_guide_next]
+[2017-01-24 17:26:21,654] INFO  org.webdriver.mindaiappui.utils.ElementAction click元素：立即体验[By.id:com.mdcn.mdonline:id/v_guide_next]成功！
+[2017-01-24 17:26:21,661] INFO  org.webdriver.mindaiappui.utils.ElementAction 等待2秒
+[2017-01-24 17:26:23,667] INFO  org.webdriver.mindaiappui.utils.TestListener 测试用例:登录测试---start
+[2017-01-24 17:26:23,672] INFO  org.webdriver.mindaiappui.utils.TestListener 测试用例:登录测试---start
+[2017-01-24 17:26:23,682] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：暂不更新方式[By.id:com.mdcn.mdonline:id/tv_dg_confirm_cancel]
+[2017-01-24 17:26:24,759] INFO  org.webdriver.mindaiappui.utils.ElementAction click元素：暂不更新[By.id:com.mdcn.mdonline:id/tv_dg_confirm_cancel]成功！
+[2017-01-24 17:26:24,759] INFO  org.webdriver.mindaiappui.utils.ElementAction 等待1秒
+[2017-01-24 17:26:25,759] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：服务器按钮方式[By.name:服务器]
+[2017-01-24 17:26:27,452] INFO  org.webdriver.mindaiappui.utils.ElementAction click元素：服务器按钮[By.name:服务器]成功！
+[2017-01-24 17:26:27,452] INFO  org.webdriver.mindaiappui.utils.ElementAction 等待1秒
+[2017-01-24 17:26:28,452] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：选择test4服务器地址方式[By.name:https://phonetest4.mindaitianxia.com/v3/]
+[2017-01-24 17:26:29,199] INFO  org.webdriver.mindaiappui.utils.ElementAction click元素：选择test4服务器地址[By.name:https://phonetest4.mindaitianxia.com/v3/]成功！
+[2017-01-24 17:26:29,199] INFO  org.webdriver.mindaiappui.utils.ElementAction 等待1秒
+[2017-01-24 17:26:30,200] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：账户按钮方式[By.name:账户]
+[2017-01-24 17:26:31,107] INFO  org.webdriver.mindaiappui.utils.ElementAction click元素：账户按钮[By.name:账户]成功！
+[2017-01-24 17:26:31,107] INFO  org.webdriver.mindaiappui.utils.ElementAction 等待1秒
+[2017-01-24 17:26:32,107] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：账号输入框方式[By.id:com.mdcn.mdonline:id/login_et_uesrname]
+[2017-01-24 17:26:35,366] INFO  org.webdriver.mindaiappui.utils.ElementAction click元素：账号输入框[By.id:com.mdcn.mdonline:id/login_et_uesrname]成功！
+[2017-01-24 17:26:35,366] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：账号输入框方式[By.id:com.mdcn.mdonline:id/login_et_uesrname]
+[2017-01-24 17:26:37,812] INFO  org.webdriver.mindaiappui.utils.ElementAction 清除input值:账号输入框[By.id:com.mdcn.mdonline:id/login_et_uesrname]
+[2017-01-24 17:26:37,813] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：账号输入框方式[By.id:com.mdcn.mdonline:id/login_et_uesrname]
+[2017-01-24 17:26:42,934] INFO  org.webdriver.mindaiappui.utils.ElementAction input输入：账号输入框[By.id:com.mdcn.mdonline:id/login_et_uesrname  value:*******]
+[2017-01-24 17:26:42,934] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：密码输入框方式[By.id:com.mdcn.mdonline:id/login_et_pw]
+[2017-01-24 17:26:43,652] INFO  org.webdriver.mindaiappui.utils.ElementAction click元素：密码输入框[By.id:com.mdcn.mdonline:id/login_et_pw]成功！
+[2017-01-24 17:26:43,652] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：密码输入框方式[By.id:com.mdcn.mdonline:id/login_et_pw]
+[2017-01-24 17:26:46,526] INFO  org.webdriver.mindaiappui.utils.ElementAction 清除input值:密码输入框[By.id:com.mdcn.mdonline:id/login_et_pw]
+[2017-01-24 17:26:46,526] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：密码输入框方式[By.id:com.mdcn.mdonline:id/login_et_pw]
+[2017-01-24 17:26:51,361] INFO  org.webdriver.mindaiappui.utils.ElementAction input输入：密码输入框[By.id:com.mdcn.mdonline:id/login_et_pw  value:*******]
+[2017-01-24 17:26:51,361] INFO  org.webdriver.mindaiappui.utils.ElementAction 等待1秒
+[2017-01-24 17:26:52,361] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：登录按钮方式[By.id:com.mdcn.mdonline:id/login_btn]
+[2017-01-24 17:26:52,725] INFO  org.webdriver.mindaiappui.utils.ElementAction click元素：登录按钮[By.id:com.mdcn.mdonline:id/login_btn]成功！
+[2017-01-24 17:26:52,726] INFO  org.webdriver.mindaiappui.utils.ElementAction 等待5秒
+[2017-01-24 17:26:57,726] INFO  org.webdriver.mindaiappui.utils.Assertion 验证是否登录成功！:【Assert验证】:页面是否出现【预期值：设置手势密码】字符串
+[2017-01-24 17:26:57,945] INFO  org.webdriver.mindaiappui.utils.Assertion 【Assert验证  pass!】
+[2017-01-24 17:26:57,947] INFO  org.webdriver.mindaiappui.utils.TestListener 测试用例: 登录测试--passed
+[2017-01-24 17:26:57,947] INFO  org.webdriver.mindaiappui.utils.TestListener 测试用例:登录测试---end
+[2017-01-24 17:26:58,060] INFO  org.webdriver.mindaiappui.utils.TestListener 测试用例: 登录测试--passed
+[2017-01-24 17:26:58,060] INFO  org.webdriver.mindaiappui.utils.TestListener 测试用例:登录测试---end
+[2017-01-24 17:26:59,520] INFO  org.webdriver.mindaiappui.utils.TestBaseCase 关闭appium server
+[2017-01-24 17:26:59,557] INFO  org.webdriver.mindaiappui.utils.TestBaseCase -------------结束测试，并关闭退出driver及appium server-------------
+[2017-01-24 17:26:59,570] INFO  org.webdriver.mindaiappui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-01-24 17:26:59,572] INFO  org.webdriver.mindaiappui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-01-24 17:26:59,609] INFO  org.webdriver.mindaiappui.utils.ElementAction 等待10秒
+[2017-01-24 17:27:09,609] INFO  org.webdriver.mindaiappui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub设备名字：Android Emulator
+[2017-01-24 17:27:21,581] INFO  org.webdriver.mindaiappui.utils.TestBaseCase Capabilities [{app=F:\Android\MindaiAppUi\apps\mdcn_420.apk, networkConnectionEnabled=true, noSign=true, warnings={}, databaseEnabled=false, deviceName=69P0216304002993, appMainPackage=com.mdcn.mdonline, platform=LINUX, appActivity=.activity.WelcomeActivity, desired={app=F:\Android\MindaiAppUi\apps\mdcn_420.apk, appActivity=.activity.WelcomeActivity, noSign=true, platformVersion=5.1.1, unicodeKeyboard=true, platformName=Android, deviceName=Android Emulator, appMainPackage=com.mdcn.mdonline, resetKeyboard=true}, platformVersion=5.0.2, webStorageEnabled=false, locationContextEnabled=false, browserName=Android, takesScreenshot=true, javascriptEnabled=true, unicodeKeyboard=true, platformName=Android, resetKeyboard=true}]
+[2017-01-24 17:27:21,588] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：立即体验方式[By.id:com.mdcn.mdonline:id/v_guide_next]
+[2017-01-24 17:27:23,580] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：立即体验方式[By.id:com.mdcn.mdonline:id/v_guide_next]
+[2017-01-24 17:27:24,121] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：立即体验方式[By.id:com.mdcn.mdonline:id/v_guide_next]
+[2017-01-24 17:27:24,651] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：立即体验方式[By.id:com.mdcn.mdonline:id/v_guide_next]
+[2017-01-24 17:27:25,192] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：立即体验方式[By.id:com.mdcn.mdonline:id/v_guide_next]
+[2017-01-24 17:27:25,977] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：立即体验方式[By.id:com.mdcn.mdonline:id/v_guide_next]
+[2017-01-24 17:27:27,122] INFO  org.webdriver.mindaiappui.utils.ElementAction click元素：立即体验[By.id:com.mdcn.mdonline:id/v_guide_next]成功！
+[2017-01-24 17:27:27,128] INFO  org.webdriver.mindaiappui.utils.ElementAction 等待2秒
+[2017-01-24 17:27:30,099] ERROR org.webdriver.mindaiappui.utils.ScreenShot 错误截图：F:\Android\MindaiAppUi\test-output\snapshot\登录失败用例:数据驱动例子.jpg
+[2017-01-24 17:27:30,099] WARN  org.webdriver.mindaiappui.utils.TestListener 测试用例: 登录失败用例:数据驱动例子--skipped
+[2017-01-24 17:27:30,099] INFO  org.webdriver.mindaiappui.utils.TestListener 测试用例:登录失败用例:数据驱动例子---end
+[2017-01-24 17:27:31,061] ERROR org.webdriver.mindaiappui.utils.ScreenShot 错误截图：F:\Android\MindaiAppUi\test-output\snapshot\登录失败用例:数据驱动例子.jpg
+[2017-01-24 17:27:31,061] WARN  org.webdriver.mindaiappui.utils.TestListener 测试用例: 登录失败用例:数据驱动例子--skipped
+[2017-01-24 17:27:31,061] INFO  org.webdriver.mindaiappui.utils.TestListener 测试用例:登录失败用例:数据驱动例子---end
+[2017-01-24 17:27:32,581] INFO  org.webdriver.mindaiappui.utils.TestBaseCase 关闭appium server
+[2017-01-24 17:27:32,617] INFO  org.webdriver.mindaiappui.utils.TestBaseCase -------------结束测试，并关闭退出driver及appium server-------------
+[2017-01-24 17:27:37,028] INFO  org.webdriver.mindaiappui.utils.SendMail 发送邮件成功！
+[2017-01-24 17:53:16,838] INFO  org.webdriver.mindaiappui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-01-24 17:53:16,843] INFO  org.webdriver.mindaiappui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-01-24 17:53:16,874] INFO  org.webdriver.mindaiappui.utils.ElementAction 等待10秒
+[2017-01-24 17:53:26,874] INFO  org.webdriver.mindaiappui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub设备名字：Android Emulator
+[2017-01-24 17:53:39,124] INFO  org.webdriver.mindaiappui.utils.TestBaseCase Capabilities [{app=F:\Android\MindaiAppUi\apps\mdcn_420.apk, networkConnectionEnabled=true, noSign=true, warnings={}, databaseEnabled=false, deviceName=69P0216304002993, appMainPackage=com.mdcn.mdonline, platform=LINUX, appActivity=.activity.WelcomeActivity, desired={app=F:\Android\MindaiAppUi\apps\mdcn_420.apk, appActivity=.activity.WelcomeActivity, noSign=true, platformVersion=5.1.1, unicodeKeyboard=true, platformName=Android, deviceName=Android Emulator, appMainPackage=com.mdcn.mdonline, resetKeyboard=true}, platformVersion=5.0.2, webStorageEnabled=false, locationContextEnabled=false, browserName=Android, takesScreenshot=true, javascriptEnabled=true, unicodeKeyboard=true, platformName=Android, resetKeyboard=true}]
+[2017-01-24 17:53:39,234] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：立即体验方式[By.id:com.mdcn.mdonline:id/v_guide_next]
+[2017-01-24 17:53:41,245] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：立即体验方式[By.id:com.mdcn.mdonline:id/v_guide_next]
+[2017-01-24 17:53:41,765] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：立即体验方式[By.id:com.mdcn.mdonline:id/v_guide_next]
+[2017-01-24 17:53:42,305] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：立即体验方式[By.id:com.mdcn.mdonline:id/v_guide_next]
+[2017-01-24 17:53:42,836] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：立即体验方式[By.id:com.mdcn.mdonline:id/v_guide_next]
+[2017-01-24 17:53:43,419] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：立即体验方式[By.id:com.mdcn.mdonline:id/v_guide_next]
+[2017-01-24 17:53:44,932] INFO  org.webdriver.mindaiappui.utils.ElementAction click元素：立即体验[By.id:com.mdcn.mdonline:id/v_guide_next]成功！
+[2017-01-24 17:53:44,933] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：暂不更新方式[By.id:com.mdcn.mdonline:id/tv_dg_confirm_cancel]
+[2017-01-24 17:53:47,489] INFO  org.webdriver.mindaiappui.utils.ElementAction click元素：暂不更新[By.id:com.mdcn.mdonline:id/tv_dg_confirm_cancel]成功！
+[2017-01-24 17:53:47,489] INFO  org.webdriver.mindaiappui.utils.ElementAction 等待1秒
+[2017-01-24 17:53:48,489] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：服务器按钮方式[By.name:服务器]
+[2017-01-24 17:53:50,247] INFO  org.webdriver.mindaiappui.utils.ElementAction click元素：服务器按钮[By.name:服务器]成功！
+[2017-01-24 17:53:50,247] INFO  org.webdriver.mindaiappui.utils.ElementAction 等待1秒
+[2017-01-24 17:53:51,247] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：选择test4服务器地址方式[By.name:https://phonetest4.mindaitianxia.com/v3/]
+[2017-01-24 17:53:51,747] INFO  org.webdriver.mindaiappui.utils.ElementAction click元素：选择test4服务器地址[By.name:https://phonetest4.mindaitianxia.com/v3/]成功！
+[2017-01-24 17:53:51,747] INFO  org.webdriver.mindaiappui.utils.ElementAction 等待1秒
+[2017-01-24 17:53:52,747] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：账户按钮方式[By.name:账户]
+[2017-01-24 17:53:53,408] INFO  org.webdriver.mindaiappui.utils.ElementAction click元素：账户按钮[By.name:账户]成功！
+[2017-01-24 17:53:53,408] INFO  org.webdriver.mindaiappui.utils.ElementAction 等待2秒
+[2017-01-24 17:53:56,031] ERROR org.webdriver.mindaiappui.utils.ScreenShot 错误截图：F:\Android\MindaiAppUi\test-output\snapshot\登录失败用例:数据驱动例子.jpg
+[2017-01-24 17:53:56,031] WARN  org.webdriver.mindaiappui.utils.TestListener 测试用例: 登录失败用例:数据驱动例子--skipped
+[2017-01-24 17:53:56,032] INFO  org.webdriver.mindaiappui.utils.TestListener 测试用例:登录失败用例:数据驱动例子---end
+[2017-01-24 17:53:56,632] ERROR org.webdriver.mindaiappui.utils.ScreenShot 错误截图：F:\Android\MindaiAppUi\test-output\snapshot\登录失败用例:数据驱动例子.jpg
+[2017-01-24 17:53:56,632] WARN  org.webdriver.mindaiappui.utils.TestListener 测试用例: 登录失败用例:数据驱动例子--skipped
+[2017-01-24 17:53:56,632] INFO  org.webdriver.mindaiappui.utils.TestListener 测试用例:登录失败用例:数据驱动例子---end
+[2017-01-24 17:53:58,148] INFO  org.webdriver.mindaiappui.utils.TestBaseCase 关闭appium server
+[2017-01-24 17:53:58,179] INFO  org.webdriver.mindaiappui.utils.TestBaseCase -------------结束测试，并关闭退出driver及appium server-------------
+[2017-01-24 17:53:58,195] INFO  org.webdriver.mindaiappui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-01-24 17:53:58,198] INFO  org.webdriver.mindaiappui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-01-24 17:53:58,228] INFO  org.webdriver.mindaiappui.utils.ElementAction 等待10秒
+[2017-01-24 17:54:08,228] INFO  org.webdriver.mindaiappui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub设备名字：Android Emulator
+[2017-01-24 17:54:20,171] INFO  org.webdriver.mindaiappui.utils.TestBaseCase Capabilities [{app=F:\Android\MindaiAppUi\apps\mdcn_420.apk, networkConnectionEnabled=true, noSign=true, warnings={}, databaseEnabled=false, deviceName=69P0216304002993, appMainPackage=com.mdcn.mdonline, platform=LINUX, appActivity=.activity.WelcomeActivity, desired={app=F:\Android\MindaiAppUi\apps\mdcn_420.apk, appActivity=.activity.WelcomeActivity, noSign=true, platformVersion=5.1.1, unicodeKeyboard=true, platformName=Android, deviceName=Android Emulator, appMainPackage=com.mdcn.mdonline, resetKeyboard=true}, platformVersion=5.0.2, webStorageEnabled=false, locationContextEnabled=false, browserName=Android, takesScreenshot=true, javascriptEnabled=true, unicodeKeyboard=true, platformName=Android, resetKeyboard=true}]
+[2017-01-24 17:54:20,184] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：立即体验方式[By.id:com.mdcn.mdonline:id/v_guide_next]
+[2017-01-24 17:54:22,360] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：立即体验方式[By.id:com.mdcn.mdonline:id/v_guide_next]
+[2017-01-24 17:54:23,058] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：立即体验方式[By.id:com.mdcn.mdonline:id/v_guide_next]
+[2017-01-24 17:54:23,603] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：立即体验方式[By.id:com.mdcn.mdonline:id/v_guide_next]
+[2017-01-24 17:54:24,604] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：立即体验方式[By.id:com.mdcn.mdonline:id/v_guide_next]
+[2017-01-24 17:54:25,951] INFO  org.webdriver.mindaiappui.utils.ElementAction click元素：立即体验[By.id:com.mdcn.mdonline:id/v_guide_next]成功！
+[2017-01-24 17:54:25,951] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：暂不更新方式[By.id:com.mdcn.mdonline:id/tv_dg_confirm_cancel]
+[2017-01-24 17:54:28,689] INFO  org.webdriver.mindaiappui.utils.ElementAction click元素：暂不更新[By.id:com.mdcn.mdonline:id/tv_dg_confirm_cancel]成功！
+[2017-01-24 17:54:28,689] INFO  org.webdriver.mindaiappui.utils.ElementAction 等待1秒
+[2017-01-24 17:54:29,689] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：服务器按钮方式[By.name:服务器]
+[2017-01-24 17:54:31,400] INFO  org.webdriver.mindaiappui.utils.ElementAction click元素：服务器按钮[By.name:服务器]成功！
+[2017-01-24 17:54:31,400] INFO  org.webdriver.mindaiappui.utils.ElementAction 等待1秒
+[2017-01-24 17:54:32,400] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：选择test4服务器地址方式[By.name:https://phonetest4.mindaitianxia.com/v3/]
+[2017-01-24 17:54:32,944] INFO  org.webdriver.mindaiappui.utils.ElementAction click元素：选择test4服务器地址[By.name:https://phonetest4.mindaitianxia.com/v3/]成功！
+[2017-01-24 17:54:32,945] INFO  org.webdriver.mindaiappui.utils.ElementAction 等待1秒
+[2017-01-24 17:54:33,945] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：账户按钮方式[By.name:账户]
+[2017-01-24 17:54:34,540] INFO  org.webdriver.mindaiappui.utils.ElementAction click元素：账户按钮[By.name:账户]成功！
+[2017-01-24 17:54:34,540] INFO  org.webdriver.mindaiappui.utils.ElementAction 等待2秒
+[2017-01-24 17:54:37,150] ERROR org.webdriver.mindaiappui.utils.ScreenShot 错误截图：F:\Android\MindaiAppUi\test-output\snapshot\登录失败用例:数据驱动例子.jpg
+[2017-01-24 17:54:37,150] WARN  org.webdriver.mindaiappui.utils.TestListener 测试用例: 登录失败用例:数据驱动例子--skipped
+[2017-01-24 17:54:37,150] INFO  org.webdriver.mindaiappui.utils.TestListener 测试用例:登录失败用例:数据驱动例子---end
+[2017-01-24 17:54:37,753] ERROR org.webdriver.mindaiappui.utils.ScreenShot 错误截图：F:\Android\MindaiAppUi\test-output\snapshot\登录失败用例:数据驱动例子.jpg
+[2017-01-24 17:54:37,753] WARN  org.webdriver.mindaiappui.utils.TestListener 测试用例: 登录失败用例:数据驱动例子--skipped
+[2017-01-24 17:54:37,753] INFO  org.webdriver.mindaiappui.utils.TestListener 测试用例:登录失败用例:数据驱动例子---end
+[2017-01-24 17:54:39,232] INFO  org.webdriver.mindaiappui.utils.TestBaseCase 关闭appium server
+[2017-01-24 17:54:39,261] INFO  org.webdriver.mindaiappui.utils.TestBaseCase -------------结束测试，并关闭退出driver及appium server-------------
+[2017-01-24 17:54:42,190] INFO  org.webdriver.mindaiappui.utils.SendMail 发送邮件成功！
+[2017-01-24 17:59:01,334] INFO  org.webdriver.mindaiappui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-01-24 17:59:01,339] INFO  org.webdriver.mindaiappui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-01-24 17:59:01,379] INFO  org.webdriver.mindaiappui.utils.ElementAction 等待10秒
+[2017-01-24 17:59:11,379] INFO  org.webdriver.mindaiappui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub设备名字：Android Emulator
+[2017-01-24 17:59:24,027] INFO  org.webdriver.mindaiappui.utils.TestBaseCase Capabilities [{app=F:\Android\MindaiAppUi\apps\mdcn_420.apk, networkConnectionEnabled=true, noSign=true, warnings={}, databaseEnabled=false, deviceName=69P0216304002993, appMainPackage=com.mdcn.mdonline, platform=LINUX, appActivity=.activity.WelcomeActivity, desired={app=F:\Android\MindaiAppUi\apps\mdcn_420.apk, appActivity=.activity.WelcomeActivity, noSign=true, platformVersion=5.1.1, unicodeKeyboard=true, platformName=Android, deviceName=Android Emulator, appMainPackage=com.mdcn.mdonline, resetKeyboard=true}, platformVersion=5.0.2, webStorageEnabled=false, locationContextEnabled=false, browserName=Android, takesScreenshot=true, javascriptEnabled=true, unicodeKeyboard=true, platformName=Android, resetKeyboard=true}]
+[2017-01-24 17:59:24,139] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：立即体验方式[By.id:com.mdcn.mdonline:id/v_guide_next]
+[2017-01-24 17:59:26,284] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：立即体验方式[By.id:com.mdcn.mdonline:id/v_guide_next]
+[2017-01-24 17:59:26,807] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：立即体验方式[By.id:com.mdcn.mdonline:id/v_guide_next]
+[2017-01-24 17:59:27,325] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：立即体验方式[By.id:com.mdcn.mdonline:id/v_guide_next]
+[2017-01-24 17:59:28,507] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：立即体验方式[By.id:com.mdcn.mdonline:id/v_guide_next]
+[2017-01-24 17:59:29,996] INFO  org.webdriver.mindaiappui.utils.ElementAction click元素：立即体验[By.id:com.mdcn.mdonline:id/v_guide_next]成功！
+[2017-01-24 17:59:29,996] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：暂不更新方式[By.id:com.mdcn.mdonline:id/tv_dg_confirm_cancel]
+[2017-01-24 17:59:32,494] INFO  org.webdriver.mindaiappui.utils.ElementAction click元素：暂不更新[By.id:com.mdcn.mdonline:id/tv_dg_confirm_cancel]成功！
+[2017-01-24 17:59:32,494] INFO  org.webdriver.mindaiappui.utils.ElementAction 等待1秒
+[2017-01-24 17:59:33,494] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：服务器按钮方式[By.name:服务器]
+[2017-01-24 17:59:35,116] INFO  org.webdriver.mindaiappui.utils.ElementAction click元素：服务器按钮[By.name:服务器]成功！
+[2017-01-24 17:59:35,116] INFO  org.webdriver.mindaiappui.utils.ElementAction 等待1秒
+[2017-01-24 17:59:36,116] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：选择test4服务器地址方式[By.name:https://phonetest4.mindaitianxia.com/v3/]
+[2017-01-24 17:59:36,918] INFO  org.webdriver.mindaiappui.utils.ElementAction click元素：选择test4服务器地址[By.name:https://phonetest4.mindaitianxia.com/v3/]成功！
+[2017-01-24 17:59:36,919] INFO  org.webdriver.mindaiappui.utils.ElementAction 等待1秒
+[2017-01-24 17:59:37,919] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：账户按钮方式[By.name:账户]
+[2017-01-24 17:59:38,796] INFO  org.webdriver.mindaiappui.utils.ElementAction click元素：账户按钮[By.name:账户]成功！
+[2017-01-24 17:59:38,796] INFO  org.webdriver.mindaiappui.utils.ElementAction 等待2秒
+[2017-01-24 17:59:41,481] ERROR org.webdriver.mindaiappui.utils.ScreenShot 错误截图：F:\Android\MindaiAppUi\test-output\snapshot\登录失败用例:数据驱动例子.jpg
+[2017-01-24 17:59:41,481] WARN  org.webdriver.mindaiappui.utils.TestListener 测试用例: 登录失败用例:数据驱动例子--skipped
+[2017-01-24 17:59:41,482] INFO  org.webdriver.mindaiappui.utils.TestListener 测试用例:登录失败用例:数据驱动例子---end
+[2017-01-24 17:59:42,092] ERROR org.webdriver.mindaiappui.utils.ScreenShot 错误截图：F:\Android\MindaiAppUi\test-output\snapshot\登录失败用例:数据驱动例子.jpg
+[2017-01-24 17:59:42,093] WARN  org.webdriver.mindaiappui.utils.TestListener 测试用例: 登录失败用例:数据驱动例子--skipped
+[2017-01-24 17:59:42,093] INFO  org.webdriver.mindaiappui.utils.TestListener 测试用例:登录失败用例:数据驱动例子---end
+[2017-01-24 17:59:43,551] INFO  org.webdriver.mindaiappui.utils.TestBaseCase 关闭appium server
+[2017-01-24 17:59:43,588] INFO  org.webdriver.mindaiappui.utils.TestBaseCase -------------结束测试，并关闭退出driver及appium server-------------
+[2017-01-24 18:01:46,136] INFO  org.webdriver.mindaiappui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-01-24 18:01:46,140] INFO  org.webdriver.mindaiappui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-01-24 18:01:46,176] INFO  org.webdriver.mindaiappui.utils.ElementAction 等待10秒
+[2017-01-24 18:02:01,959] INFO  org.webdriver.mindaiappui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-01-24 18:02:01,964] INFO  org.webdriver.mindaiappui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-01-24 18:02:01,999] INFO  org.webdriver.mindaiappui.utils.ElementAction 等待10秒
+[2017-01-24 18:02:11,999] INFO  org.webdriver.mindaiappui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub设备名字：Android Emulator
+[2017-01-24 18:02:24,502] INFO  org.webdriver.mindaiappui.utils.TestBaseCase Capabilities [{app=F:\Android\MindaiAppUi\apps\mdcn_420.apk, networkConnectionEnabled=true, noSign=true, warnings={}, databaseEnabled=false, deviceName=69P0216304002993, appMainPackage=com.mdcn.mdonline, platform=LINUX, appActivity=.activity.WelcomeActivity, desired={app=F:\Android\MindaiAppUi\apps\mdcn_420.apk, appActivity=.activity.WelcomeActivity, noSign=true, platformVersion=5.1.1, unicodeKeyboard=true, platformName=Android, deviceName=Android Emulator, appMainPackage=com.mdcn.mdonline, resetKeyboard=true}, platformVersion=5.0.2, webStorageEnabled=false, locationContextEnabled=false, browserName=Android, takesScreenshot=true, javascriptEnabled=true, unicodeKeyboard=true, platformName=Android, resetKeyboard=true}]
+[2017-01-24 18:02:24,611] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：立即体验方式[By.id:com.mdcn.mdonline:id/v_guide_next]
+[2017-01-24 18:02:26,344] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：立即体验方式[By.id:com.mdcn.mdonline:id/v_guide_next]
+[2017-01-24 18:02:26,869] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：立即体验方式[By.id:com.mdcn.mdonline:id/v_guide_next]
+[2017-01-24 18:02:27,395] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：立即体验方式[By.id:com.mdcn.mdonline:id/v_guide_next]
+[2017-01-24 18:02:27,956] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：立即体验方式[By.id:com.mdcn.mdonline:id/v_guide_next]
+[2017-01-24 18:02:28,736] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：立即体验方式[By.id:com.mdcn.mdonline:id/v_guide_next]
+[2017-01-24 18:02:29,918] INFO  org.webdriver.mindaiappui.utils.ElementAction click元素：立即体验[By.id:com.mdcn.mdonline:id/v_guide_next]成功！
+[2017-01-24 18:02:29,918] INFO  org.webdriver.mindaiappui.utils.ElementAction 等待2秒
+[2017-01-24 18:02:32,904] ERROR org.webdriver.mindaiappui.utils.ScreenShot 错误截图：F:\Android\MindaiAppUi\test-output\snapshot\登录失败用例:数据驱动例子.jpg
+[2017-01-24 18:02:32,905] WARN  org.webdriver.mindaiappui.utils.TestListener 测试用例: 登录失败用例:数据驱动例子--skipped
+[2017-01-24 18:02:32,905] INFO  org.webdriver.mindaiappui.utils.TestListener 测试用例:登录失败用例:数据驱动例子---end
+[2017-01-24 18:02:33,904] ERROR org.webdriver.mindaiappui.utils.ScreenShot 错误截图：F:\Android\MindaiAppUi\test-output\snapshot\登录失败用例:数据驱动例子.jpg
+[2017-01-24 18:02:33,904] WARN  org.webdriver.mindaiappui.utils.TestListener 测试用例: 登录失败用例:数据驱动例子--skipped
+[2017-01-24 18:02:33,904] INFO  org.webdriver.mindaiappui.utils.TestListener 测试用例:登录失败用例:数据驱动例子---end
+[2017-01-24 18:02:35,384] INFO  org.webdriver.mindaiappui.utils.TestBaseCase 关闭appium server
+[2017-01-24 18:02:35,425] INFO  org.webdriver.mindaiappui.utils.TestBaseCase -------------结束测试，并关闭退出driver及appium server-------------
+[2017-01-24 18:09:17,467] INFO  org.webdriver.mindaiappui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-01-24 18:09:17,473] INFO  org.webdriver.mindaiappui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-01-24 18:09:17,517] INFO  org.webdriver.mindaiappui.utils.ElementAction 等待10秒
+[2017-01-24 18:09:27,518] INFO  org.webdriver.mindaiappui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub设备名字：Android Emulator
+[2017-01-24 18:09:40,104] INFO  org.webdriver.mindaiappui.utils.TestBaseCase Capabilities [{app=F:\Android\MindaiAppUi\apps\mdcn_420.apk, networkConnectionEnabled=true, noSign=true, warnings={}, databaseEnabled=false, deviceName=69P0216304002993, appMainPackage=com.mdcn.mdonline, platform=LINUX, appActivity=.activity.WelcomeActivity, desired={app=F:\Android\MindaiAppUi\apps\mdcn_420.apk, appActivity=.activity.WelcomeActivity, noSign=true, platformVersion=5.1.1, unicodeKeyboard=true, platformName=Android, deviceName=Android Emulator, appMainPackage=com.mdcn.mdonline, resetKeyboard=true}, platformVersion=5.0.2, webStorageEnabled=false, locationContextEnabled=false, browserName=Android, takesScreenshot=true, javascriptEnabled=true, unicodeKeyboard=true, platformName=Android, resetKeyboard=true}]
+[2017-01-24 18:09:40,217] INFO  org.webdriver.mindaiappui.utils.ElementAction 等待2秒
+[2017-01-24 18:09:42,220] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：立即体验方式[By.id:com.mdcn.mdonline:id/v_guide_next]
+[2017-01-24 18:09:42,760] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：立即体验方式[By.id:com.mdcn.mdonline:id/v_guide_next]
+[2017-01-24 18:09:43,298] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：立即体验方式[By.id:com.mdcn.mdonline:id/v_guide_next]
+[2017-01-24 18:09:44,441] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：立即体验方式[By.id:com.mdcn.mdonline:id/v_guide_next]
+[2017-01-24 18:09:45,562] INFO  org.webdriver.mindaiappui.utils.ElementAction click元素：立即体验[By.id:com.mdcn.mdonline:id/v_guide_next]成功！
+[2017-01-24 18:09:45,563] INFO  org.webdriver.mindaiappui.utils.ElementAction 等待2秒
+[2017-01-24 18:09:47,568] INFO  org.webdriver.mindaiappui.utils.TestListener 测试用例:登录测试---start
+[2017-01-24 18:09:47,572] INFO  org.webdriver.mindaiappui.utils.TestListener 测试用例:登录测试---start
+[2017-01-24 18:09:47,587] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：暂不更新方式[By.id:com.mdcn.mdonline:id/tv_dg_confirm_cancel]
+[2017-01-24 18:09:49,469] INFO  org.webdriver.mindaiappui.utils.ElementAction click元素：暂不更新[By.id:com.mdcn.mdonline:id/tv_dg_confirm_cancel]成功！
+[2017-01-24 18:09:49,470] INFO  org.webdriver.mindaiappui.utils.ElementAction 等待1秒
+[2017-01-24 18:09:50,470] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：服务器按钮方式[By.name:服务器]
+[2017-01-24 18:09:51,927] INFO  org.webdriver.mindaiappui.utils.ElementAction click元素：服务器按钮[By.name:服务器]成功！
+[2017-01-24 18:09:51,927] INFO  org.webdriver.mindaiappui.utils.ElementAction 等待1秒
+[2017-01-24 18:09:52,928] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：选择test4服务器地址方式[By.name:https://phonetest4.mindaitianxia.com/v3/]
+[2017-01-24 18:09:53,485] INFO  org.webdriver.mindaiappui.utils.ElementAction click元素：选择test4服务器地址[By.name:https://phonetest4.mindaitianxia.com/v3/]成功！
+[2017-01-24 18:09:53,486] INFO  org.webdriver.mindaiappui.utils.ElementAction 等待1秒
+[2017-01-24 18:09:54,486] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：账户按钮方式[By.name:账户]
+[2017-01-24 18:09:55,148] INFO  org.webdriver.mindaiappui.utils.ElementAction click元素：账户按钮[By.name:账户]成功！
+[2017-01-24 18:09:55,148] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：账号输入框方式[By.id:com.mdcn.mdonline:id/login_et_uesrname]
+[2017-01-24 18:09:59,315] INFO  org.webdriver.mindaiappui.utils.ElementAction click元素：账号输入框[By.id:com.mdcn.mdonline:id/login_et_uesrname]成功！
+[2017-01-24 18:09:59,315] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：账号输入框方式[By.id:com.mdcn.mdonline:id/login_et_uesrname]
+[2017-01-24 18:10:01,763] INFO  org.webdriver.mindaiappui.utils.ElementAction 清除input值:账号输入框[By.id:com.mdcn.mdonline:id/login_et_uesrname]
+[2017-01-24 18:10:01,764] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：账号输入框方式[By.id:com.mdcn.mdonline:id/login_et_uesrname]
+[2017-01-24 18:10:07,237] INFO  org.webdriver.mindaiappui.utils.ElementAction input输入：账号输入框[By.id:com.mdcn.mdonline:id/login_et_uesrname  value:*******]
+[2017-01-24 18:10:07,237] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：密码输入框方式[By.id:com.mdcn.mdonline:id/login_et_pw]
+[2017-01-24 18:10:07,930] INFO  org.webdriver.mindaiappui.utils.ElementAction click元素：密码输入框[By.id:com.mdcn.mdonline:id/login_et_pw]成功！
+[2017-01-24 18:10:07,930] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：密码输入框方式[By.id:com.mdcn.mdonline:id/login_et_pw]
+[2017-01-24 18:10:10,789] INFO  org.webdriver.mindaiappui.utils.ElementAction 清除input值:密码输入框[By.id:com.mdcn.mdonline:id/login_et_pw]
+[2017-01-24 18:10:10,789] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：密码输入框方式[By.id:com.mdcn.mdonline:id/login_et_pw]
+[2017-01-24 18:10:16,158] INFO  org.webdriver.mindaiappui.utils.ElementAction input输入：密码输入框[By.id:com.mdcn.mdonline:id/login_et_pw  value:*******]
+[2017-01-24 18:10:16,158] INFO  org.webdriver.mindaiappui.utils.ElementAction 等待1秒
+[2017-01-24 18:10:17,158] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：登录按钮方式[By.id:com.mdcn.mdonline:id/login_btn]
+[2017-01-24 18:10:17,489] INFO  org.webdriver.mindaiappui.utils.ElementAction click元素：登录按钮[By.id:com.mdcn.mdonline:id/login_btn]成功！
+[2017-01-24 18:10:17,490] INFO  org.webdriver.mindaiappui.utils.ElementAction 等待5秒
+[2017-01-24 18:10:22,490] INFO  org.webdriver.mindaiappui.utils.Assertion 验证是否登录成功！:【Assert验证】:页面是否出现【预期值：设置手势密码】字符串
+[2017-01-24 18:10:22,624] INFO  org.webdriver.mindaiappui.utils.Assertion 【Assert验证  pass!】
+[2017-01-24 18:10:22,626] INFO  org.webdriver.mindaiappui.utils.TestListener 测试用例: 登录测试--passed
+[2017-01-24 18:10:22,626] INFO  org.webdriver.mindaiappui.utils.TestListener 测试用例:登录测试---end
+[2017-01-24 18:10:22,630] INFO  org.webdriver.mindaiappui.utils.TestListener 测试用例: 登录测试--passed
+[2017-01-24 18:10:22,630] INFO  org.webdriver.mindaiappui.utils.TestListener 测试用例:登录测试---end
+[2017-01-24 18:10:24,122] INFO  org.webdriver.mindaiappui.utils.TestBaseCase 关闭appium server
+[2017-01-24 18:10:24,152] INFO  org.webdriver.mindaiappui.utils.TestBaseCase -------------结束测试，并关闭退出driver及appium server-------------
+[2017-01-24 18:10:26,907] INFO  org.webdriver.mindaiappui.utils.SendMail 发送邮件成功！
+[2017-01-24 18:12:27,103] INFO  org.webdriver.mindaiappui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-01-24 18:12:27,108] INFO  org.webdriver.mindaiappui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-01-24 18:12:27,147] INFO  org.webdriver.mindaiappui.utils.ElementAction 等待10秒
+[2017-01-24 18:12:37,147] INFO  org.webdriver.mindaiappui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub设备名字：Android Emulator
+[2017-01-24 18:12:49,712] INFO  org.webdriver.mindaiappui.utils.TestBaseCase Capabilities [{app=F:\Android\MindaiAppUi\apps\mdcn_420.apk, networkConnectionEnabled=true, noSign=true, warnings={}, databaseEnabled=false, deviceName=69P0216304002993, appMainPackage=com.mdcn.mdonline, platform=LINUX, appActivity=.activity.WelcomeActivity, desired={app=F:\Android\MindaiAppUi\apps\mdcn_420.apk, appActivity=.activity.WelcomeActivity, noSign=true, platformVersion=5.1.1, unicodeKeyboard=true, platformName=Android, deviceName=Android Emulator, appMainPackage=com.mdcn.mdonline, resetKeyboard=true}, platformVersion=5.0.2, webStorageEnabled=false, locationContextEnabled=false, browserName=Android, takesScreenshot=true, javascriptEnabled=true, unicodeKeyboard=true, platformName=Android, resetKeyboard=true}]
+[2017-01-24 18:12:49,852] INFO  org.webdriver.mindaiappui.utils.ElementAction 等待3秒
+[2017-01-24 18:12:52,855] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：立即体验方式[By.id:com.mdcn.mdonline:id/v_guide_next]
+[2017-01-24 18:12:53,398] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：立即体验方式[By.id:com.mdcn.mdonline:id/v_guide_next]
+[2017-01-24 18:12:54,110] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：立即体验方式[By.id:com.mdcn.mdonline:id/v_guide_next]
+[2017-01-24 18:12:55,233] INFO  org.webdriver.mindaiappui.utils.ElementAction click元素：立即体验[By.id:com.mdcn.mdonline:id/v_guide_next]成功！
+[2017-01-24 18:12:55,233] INFO  org.webdriver.mindaiappui.utils.ElementAction 等待2秒
+[2017-01-24 18:12:58,122] ERROR org.webdriver.mindaiappui.utils.ScreenShot 错误截图：F:\Android\MindaiAppUi\test-output\snapshot\登录失败用例:数据驱动例子.jpg
+[2017-01-24 18:12:58,122] WARN  org.webdriver.mindaiappui.utils.TestListener 测试用例: 登录失败用例:数据驱动例子--skipped
+[2017-01-24 18:12:58,123] INFO  org.webdriver.mindaiappui.utils.TestListener 测试用例:登录失败用例:数据驱动例子---end
+[2017-01-24 18:12:59,045] ERROR org.webdriver.mindaiappui.utils.ScreenShot 错误截图：F:\Android\MindaiAppUi\test-output\snapshot\登录失败用例:数据驱动例子.jpg
+[2017-01-24 18:12:59,045] WARN  org.webdriver.mindaiappui.utils.TestListener 测试用例: 登录失败用例:数据驱动例子--skipped
+[2017-01-24 18:12:59,046] INFO  org.webdriver.mindaiappui.utils.TestListener 测试用例:登录失败用例:数据驱动例子---end
+[2017-01-24 18:13:00,590] INFO  org.webdriver.mindaiappui.utils.TestBaseCase 关闭appium server
+[2017-01-24 18:13:00,626] INFO  org.webdriver.mindaiappui.utils.TestBaseCase -------------结束测试，并关闭退出driver及appium server-------------
+[2017-01-24 18:13:05,748] INFO  org.webdriver.mindaiappui.utils.SendMail 发送邮件成功！
+[2017-01-24 18:24:37,079] INFO  org.webdriver.mindaiappui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-01-24 18:24:37,084] INFO  org.webdriver.mindaiappui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-01-24 18:24:37,117] INFO  org.webdriver.mindaiappui.utils.ElementAction 等待10秒
+[2017-01-24 18:24:47,117] INFO  org.webdriver.mindaiappui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub设备名字：Android Emulator
+[2017-01-24 18:24:59,185] INFO  org.webdriver.mindaiappui.utils.TestBaseCase Capabilities [{app=F:\Android\MindaiAppUi\apps\mdcn_420.apk, networkConnectionEnabled=true, noSign=true, warnings={}, databaseEnabled=false, deviceName=69P0216304002993, appMainPackage=com.mdcn.mdonline, platform=LINUX, appActivity=.activity.WelcomeActivity, desired={app=F:\Android\MindaiAppUi\apps\mdcn_420.apk, appActivity=.activity.WelcomeActivity, noSign=true, platformVersion=5.1.1, unicodeKeyboard=true, platformName=Android, deviceName=Android Emulator, appMainPackage=com.mdcn.mdonline, resetKeyboard=true}, platformVersion=5.0.2, webStorageEnabled=false, locationContextEnabled=false, browserName=Android, takesScreenshot=true, javascriptEnabled=true, unicodeKeyboard=true, platformName=Android, resetKeyboard=true}]
+[2017-01-24 18:24:59,293] INFO  org.webdriver.mindaiappui.utils.ElementAction 等待3秒
+[2017-01-24 18:25:02,296] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：立即体验方式[By.id:com.mdcn.mdonline:id/v_guide_next]
+[2017-01-24 18:25:03,566] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：立即体验方式[By.id:com.mdcn.mdonline:id/v_guide_next]
+[2017-01-24 18:25:04,183] INFO  org.webdriver.mindaiappui.utils.ElementAction click元素：立即体验[By.id:com.mdcn.mdonline:id/v_guide_next]成功！
+[2017-01-24 18:25:04,183] INFO  org.webdriver.mindaiappui.utils.ElementAction 等待2秒
+[2017-01-24 18:25:06,955] ERROR org.webdriver.mindaiappui.utils.ScreenShot 错误截图：F:\Android\MindaiAppUi\test-output\snapshot\登录失败用例:数据驱动例子.jpg
+[2017-01-24 18:25:06,955] WARN  org.webdriver.mindaiappui.utils.TestListener 测试用例: 登录失败用例:数据驱动例子--skipped
+[2017-01-24 18:25:06,955] INFO  org.webdriver.mindaiappui.utils.TestListener 测试用例:登录失败用例:数据驱动例子---end
+[2017-01-24 18:25:07,913] ERROR org.webdriver.mindaiappui.utils.ScreenShot 错误截图：F:\Android\MindaiAppUi\test-output\snapshot\登录失败用例:数据驱动例子.jpg
+[2017-01-24 18:25:07,914] WARN  org.webdriver.mindaiappui.utils.TestListener 测试用例: 登录失败用例:数据驱动例子--skipped
+[2017-01-24 18:25:07,914] INFO  org.webdriver.mindaiappui.utils.TestListener 测试用例:登录失败用例:数据驱动例子---end
+[2017-01-24 18:25:09,414] INFO  org.webdriver.mindaiappui.utils.TestBaseCase 关闭appium server
+[2017-01-24 18:25:09,441] INFO  org.webdriver.mindaiappui.utils.TestBaseCase -------------结束测试，并关闭退出driver及appium server-------------
+[2017-01-24 18:25:53,964] INFO  org.webdriver.mindaiappui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-01-24 18:25:53,968] INFO  org.webdriver.mindaiappui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-01-24 18:25:54,004] INFO  org.webdriver.mindaiappui.utils.ElementAction 等待10秒
+[2017-01-24 18:26:04,005] INFO  org.webdriver.mindaiappui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub设备名字：Android Emulator
+[2017-01-24 18:26:16,325] INFO  org.webdriver.mindaiappui.utils.TestBaseCase Capabilities [{app=F:\Android\MindaiAppUi\apps\mdcn_420.apk, networkConnectionEnabled=true, noSign=true, warnings={}, databaseEnabled=false, deviceName=69P0216304002993, appMainPackage=com.mdcn.mdonline, platform=LINUX, appActivity=.activity.WelcomeActivity, desired={app=F:\Android\MindaiAppUi\apps\mdcn_420.apk, appActivity=.activity.WelcomeActivity, noSign=true, platformVersion=5.1.1, unicodeKeyboard=true, platformName=Android, deviceName=Android Emulator, appMainPackage=com.mdcn.mdonline, resetKeyboard=true}, platformVersion=5.0.2, webStorageEnabled=false, locationContextEnabled=false, browserName=Android, takesScreenshot=true, javascriptEnabled=true, unicodeKeyboard=true, platformName=Android, resetKeyboard=true}]
+[2017-01-24 18:26:16,454] INFO  org.webdriver.mindaiappui.utils.ElementAction 等待3秒
+[2017-01-24 18:26:19,457] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：立即体验方式[By.id:com.mdcn.mdonline:id/v_guide_next]
+[2017-01-24 18:26:19,996] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：立即体验方式[By.id:com.mdcn.mdonline:id/v_guide_next]
+[2017-01-24 18:26:20,609] INFO  org.webdriver.mindaiappui.utils.ElementAction 查找元素：立即体验方式[By.id:com.mdcn.mdonline:id/v_guide_next]
+[2017-01-24 18:26:21,817] INFO  org.webdriver.mindaiappui.utils.ElementAction click元素：立即体验[By.id:com.mdcn.mdonline:id/v_guide_next]成功！
+[2017-01-24 18:26:21,818] INFO  org.webdriver.mindaiappui.utils.ElementAction 等待2秒
+[2017-01-24 18:26:24,779] ERROR org.webdriver.mindaiappui.utils.ScreenShot 错误截图：F:\Android\MindaiAppUi\test-output\snapshot\登录失败用例:数据驱动例子.jpg
+[2017-01-24 18:26:24,779] WARN  org.webdriver.mindaiappui.utils.TestListener 测试用例: 登录失败用例:数据驱动例子--skipped
+[2017-01-24 18:26:24,780] INFO  org.webdriver.mindaiappui.utils.TestListener 测试用例:登录失败用例:数据驱动例子---end
+[2017-01-24 18:26:25,764] ERROR org.webdriver.mindaiappui.utils.ScreenShot 错误截图：F:\Android\MindaiAppUi\test-output\snapshot\登录失败用例:数据驱动例子.jpg
+[2017-01-24 18:26:25,764] WARN  org.webdriver.mindaiappui.utils.TestListener 测试用例: 登录失败用例:数据驱动例子--skipped
+[2017-01-24 18:26:25,764] INFO  org.webdriver.mindaiappui.utils.TestListener 测试用例:登录失败用例:数据驱动例子---end
+[2017-01-24 18:26:27,288] INFO  org.webdriver.mindaiappui.utils.TestBaseCase 关闭appium server
+[2017-01-24 18:26:27,318] INFO  org.webdriver.mindaiappui.utils.TestBaseCase -------------结束测试，并关闭退出driver及appium server-------------
+[2017-01-24 18:26:30,248] INFO  org.webdriver.mindaiappui.utils.SendMail 发送邮件成功！

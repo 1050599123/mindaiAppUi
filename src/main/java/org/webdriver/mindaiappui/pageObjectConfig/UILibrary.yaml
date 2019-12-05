@@ -1,0 +1,23 @@
+pages:
+    - page:
+       pageName: org.webdriver.mindaiappui.pageObject.StartPage
+       value: ""
+       desc: "APP启动首页"
+       locators:
+          - {type: "id",timeout: "3",value: "com.tencent.mm:id/cbi",desc: "登录",name: "登录"}
+          - {type: "id",timeout: "3",value: "com.tencent.mm:id/cbh",desc: "注册",name: "注册"}
+    - page:
+        pageName: org.webdriver.mindaiappui.pageObject.LoginPage
+        value: ""
+        desc: "App登录页面"
+        locators:
+          - {type: "id",timeout: "3" , value: "com.tencent.mm:id/bcg", desc: "使用其他方式登录",name: "使用其他方式登录"}
+          - {type: "xpath",timeout: "3" ,value: "//android.widget.EditText[@resource-id=\"com.tencent.mm:id/gr\" and @text=\"QQ号/微信号/Email"]", desc: "账号",name: "账号输入框"}
+          - {type: "xpath",timeout: "3" ,value: "//android.widget.LinearLayout[@resource-id=\"com.tencent.mm:id/bbs\"]/android.widget.EditText[1]", desc: "密码",name: "密码输入框"}
+          - {type: "id",timeout: "3" ,value: "com.tencent.mm:id/bbt", desc: "登录",name: "登录按钮"}
+          - {type: "id",timeout: "3" ,value: "com.tencent.mm:id/bpn", desc: "失败提示信息确认信息",name: "登录失败提示信息"}
+          - {type: "id",timeout: "3" ,value: "com.tencent.mm:id/abg", desc: "失败提示信息确认按钮",name: "登录失败确认按钮"}
+
+
+
+

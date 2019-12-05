@@ -1,0 +1,11 @@
+[2017-12-28 21:03:12,084] INFO  org.webdriver.mindaiappui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-12-28 21:03:12,089] INFO  org.webdriver.mindaiappui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-12-28 21:03:12,110] INFO  org.webdriver.mindaiappui.utils.ElementAction 等待10秒
+[2017-12-28 21:03:22,110] INFO  org.webdriver.mindaiappui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub设备名字：Android Emulator
+[2017-12-28 21:03:23,599] ERROR org.webdriver.mindaiappui.utils.TestBaseCase appium环境配置失败
+[2017-12-28 21:03:23,729] INFO  org.webdriver.mindaiappui.utils.ElementAction 等待5秒判断元素：com.mdcn.mdonline:id/tv_dg_confirm_cancel是否存在
+[2017-12-28 21:03:28,629] INFO  org.webdriver.mindaiappui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-12-28 21:03:28,634] INFO  org.webdriver.mindaiappui.utils.TestBaseCase 通过cmd命令启动appium server
+[2017-12-28 21:03:28,645] INFO  org.webdriver.mindaiappui.utils.ElementAction 等待10秒
+[2017-12-28 21:03:28,858] INFO  org.webdriver.mindaiappui.utils.TestListener 测试用例:登录失败用例---start
+[2017-12-28 21:03:28,863] ERROR org.webdriver.mindaiappui.utils.TestListener 0

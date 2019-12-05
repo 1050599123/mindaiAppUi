@@ -1,0 +1,27 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 80.324 sec <<< FAILURE! - in TestSuite
+loginFail(org.webdriver.mindaiappui.cases.LoginTest)  Time elapsed: 27.993 sec  <<< FAILURE!
+org.openqa.selenium.WebDriverException: An unknown server-side error occurred while processing the command. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 371 milliseconds
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'hepeng', ip: '192.168.3.81', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_91'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities [{app=F:\Android\mindaiAppUi\apps\mdcn_420.apk, appActivity=.activity.WelcomeActivity, noReset=True, noSign=True, platformVersion=7.0, automationName=uiautomator2, unicodeKeyboard=True, platformName=Android, deviceName=Android Emulator, appMainPackage=com.mdcn.mdonline, resetKeyboard=True, platform=ANY}]
+Session ID: c885bca1-f115-4796-9572-280f0d44a91a
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at io.appium.java_client.DefaultGenericMobileDriver.execute(DefaultGenericMobileDriver.java:51)
+	at io.appium.java_client.AppiumDriver.execute(AppiumDriver.java:1)
+	at io.appium.java_client.android.AndroidDriver.execute(AndroidDriver.java:1)
+	at io.appium.java_client.AppiumDriver.performTouchAction(AppiumDriver.java:369)
+	at io.appium.java_client.TouchAction.perform(TouchAction.java:323)
+	at org.webdriver.mindaiappui.action.GesturecipherAction.<init>(GesturecipherAction.java:41)
+	at org.webdriver.mindaiappui.cases.LoginTest.loginFail(LoginTest.java:59)
+

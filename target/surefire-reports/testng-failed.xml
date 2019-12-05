@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Suite]">
+  <parameter name="mailTitle" value="自动化测试报告"/>
+  <parameter name="UserName" value=""/>
+  <parameter name="appName" value="mdcn_420.apk"/>
+  <parameter name="smtpPort" value="465"/>
+  <parameter name="reportTitle" value="自动化测试报告"/>
+  <parameter name="nodeURL" value="127.0.0.1:4723"/>
+  <parameter name="smtpPassWord" value="Mindaitianxia2017"/>
+  <parameter name="reportUrl" value="http://192.168.1.162:8085/report.html"/>
+  <parameter name="deviceName" value="Android Emulator"/>
+  <parameter name="appMainPackage" value="com.mdcn.mdonline"/>
+  <parameter name="PassWord" value=""/>
+  <parameter name="appActivity" value=".activity.WelcomeActivity"/>
+  <parameter name="smtpHost" value="smtp.exmail.qq.com"/>
+  <parameter name="smtpUserName" value="hepeng@mindai.com"/>
+  <parameter name="recipients" value="hepeng@mindai.com"/>
+  <parameter name="driverName" value="AndroidDriver"/>
+  <parameter name="sdkVersion" value="7.0"/>
+  <parameter name="platformName" value="Android"/>
+  <parameter name="logUrl" value="http://192.168.1.162:8086/log_2017-01-24.htmls"/>
+  <listeners>
+    <listener class-name="org.webdriver.mindaiappui.utils.TestListener"/>
+    <listener class-name="org.webdriver.mindaiappui.utils.TestReport"/>
+  </listeners>
+  <test name="登录失败测试：数据驱动(failed)">
+    <classes>
+      <class name="org.webdriver.mindaiappui.cases.LoginTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setup"/>
+          <include name="loginFail" invocation-numbers="1"/>
+          <include name="beforeclass"/>
+        </methods>
+      </class> <!-- org.webdriver.mindaiappui.cases.LoginTest -->
+    </classes>
+  </test> <!-- 登录失败测试：数据驱动(failed) -->
+</suite> <!-- Failed suite [Suite] -->

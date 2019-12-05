@@ -1,0 +1,10 @@
+[2019-11-14 09:40:48,158] INFO  org.webdriver.mindaiappui.utils.TestBaseCase ------------------开始执行测试---------------
+[2019-11-14 09:40:48,163] INFO  org.webdriver.mindaiappui.utils.TestBaseCase 通过cmd命令启动appium server
+[2019-11-14 09:40:48,190] INFO  org.webdriver.mindaiappui.utils.ElementAction 等待10秒
+[2019-11-14 09:40:58,190] INFO  org.webdriver.mindaiappui.utils.TestBaseCase 读取xml配置：Mobile Driver:AndroidDriver；Appium Server:http://127.0.0.1:4723/wd/hub设备名字：Android Emulator
+[2019-11-14 09:40:59,673] ERROR org.webdriver.mindaiappui.utils.TestBaseCase appium环境配置失败
+[2019-11-14 09:40:59,827] INFO  org.webdriver.mindaiappui.utils.TestListener 测试用例:登录失败用例---start
+[2019-11-14 09:40:59,831] INFO  org.webdriver.mindaiappui.utils.TestListener 测试用例:登录失败用例---start
+[2019-11-14 09:40:59,832] INFO  org.webdriver.mindaiappui.utils.ElementAction 等待5秒判断元素：com.mdcn.mdonline:id/btn_login_login是否存在
+[2019-11-14 09:41:05,208] ERROR org.webdriver.mindaiappui.utils.TestListener 0
+[2019-11-14 09:41:05,302] ERROR org.webdriver.mindaiappui.utils.TestListener 0
